@@ -1,0 +1,3 @@
+newsApi:
+  baseurl: ${NEWS_API_BASE_URL:http://localhost:8080}
+  authToken: ${NEWS_API_AUTH_TOKEN:test-key}

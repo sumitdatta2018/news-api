@@ -1,0 +1,1833 @@
+{
+    "data": [
+        {
+            "id": "0",
+            "type": "newsfeedbuckets",
+            "attributes": {
+                "articles": [
+                    {
+                        "source": {
+                            "id": "engadget",
+                            "name": "Engadget",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "Mariella Moon",
+                        "title": "Uber puts a ride tracker on the iPhone lock screen",
+                        "description": "Uber has rolled out an update for its iPhone app that gives you the capability to see at a glance whether it's time to head out the door and meet the ride you ordered. The company has launched support for Live Activities, an iOS 16 feature that puts real time…",
+                        "url": "https://www.engadget.com/uber-ride-tracker-iphone-lock-screen-060908235.html",
+                        "urlToImage": "https://s.yimg.com/uu/api/res/1.2/J2YKCUmqOFgoB8IGORwR.Q--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-02/acf68150-b338-11ed-b7df-fe851f6641fa.cf.jpg",
+                        "publishedAt": "2023-02-23T06:09:08Z",
+                        "content": "Uber has rolled out an update for its iPhone app that gives you the capability to see at a glance whether it's time to head out the door and meet the ride you ordered. The company has launched suppor… [+1173 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": null,
+                            "name": "MacRumors",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "Hartley Charlton",
+                        "title": "Will Apple Finally Launch an Even Bigger iPad This Year?",
+                        "description": "A 14.1-inch iPad was previously rumored to launch in in early 2023, but the latest reports suggest such a device is no longer in the works. \n\n\n\n\n\nWhile it was initially said to feature a mini-LED display and ProMotion technology, it was later believed to feat…",
+                        "url": "https://www.macrumors.com/2023/02/23/will-apple-launch-even-bigger-ipad/",
+                        "urlToImage": "https://images.macrumors.com/t/jOQZGQ_GKSkMGMFfH5nLolzjQ9k=/2192x/article-new/2021/07/iPad-More-Than-12.9-Inches-Feature-Orange.jpg",
+                        "publishedAt": "2023-02-23T10:48:51Z",
+                        "content": "A 14.1-inch iPad was previously rumored to launch in in early 2023, but the latest reports suggest such a device is no longer in the works. \r\nWhile it was initially said to feature a mini-LED display… [+1122 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": null,
+                            "name": "MacRumors",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "Tim Hardwick",
+                        "title": "Apple Releases 'Car Keys Tests' App for Licensed MFi Developers",
+                        "description": "Apple has released a testing app for vehicle manufacturers who are working on integrating its digital Car Keys software (via 9to5Mac).\n\n\n\n\n\nApple's digital car key feature allows users to unlock and start a compatible vehicle by bringing an iPhone or Apple Wa…",
+                        "url": "https://www.macrumors.com/2023/02/21/apple-releases-car-keys-tests-app/",
+                        "urlToImage": "https://images.macrumors.com/t/4yVdRIMVlWpVTGyEqxHz3NDP3XU=/1920x/article-new/2023/02/car-keys-tests.jpg",
+                        "publishedAt": "2023-02-21T09:47:55Z",
+                        "content": "Apple has released a testing app for vehicle manufacturers who are working on integrating its digital Car Keys software (via 9to5Mac).\r\nApple's digital car key feature allows users to unlock and star… [+905 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": null,
+                            "name": "Android Central",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "harish.jonnalagadda@futurenet.com (Harish Jonnalagadda)",
+                        "title": "Wearable sales are going up, and the Apple Watch extends its dominance",
+                        "description": "The global smartwatch industry grew by 12% in 2022, and the Apple Watch is still the runaway leader by some margin.",
+                        "url": "https://www.androidcentral.com/wearables/wearable-sales-are-going-up-and-the-apple-watch-extends-its-dominance",
+                        "urlToImage": "https://cdn.mos.cms.futurecdn.net/QygJj6UsDfFxuUWNT27ZjD-1200-80.jpg",
+                        "publishedAt": "2023-02-25T06:01:53Z",
+                        "content": "While the phone market is in a decline right now, there are no such issues with wearables. According to the latest figures from Counterpoint, global smartwatch sales increased by 12% year-on-year in … [+3825 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": null,
+                            "name": "The Guardian",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "Neil Long",
+                        "title": "I was an App Store games editor – that’s how I know Apple doesn’t care about games",
+                        "description": "The tech giant has taken billions from game developers but failed to reinvest it, leaving the App Store a confusing mess for mobile gamersIn the 15 years since it launched the App Store, Apple has proved again and again that it cares very little about games –…",
+                        "url": "https://www.theguardian.com/games/2023/feb/23/i-was-an-app-store-games-editor-thats-how-i-know-apple-doesnt-care-about-games",
+                        "urlToImage": "https://i.guim.co.uk/img/media/074b0e0b9829fc4005a716b90d6d2bda081c3952/0_189_5136_3082/master/5136.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=445805e4bbec7f0dd2f9c143d7f245cf",
+                        "publishedAt": "2023-02-23T09:30:49Z",
+                        "content": "In the 15 years since it launched the App Store, Apple has proved again and again that it cares very little about games though it is happy to make billions from them. I should know: I was an App Stor… [+5875 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": null,
+                            "name": "The Guardian",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "Rachel Roddy",
+                        "title": "Rachel Roddy’s favourite recipe for apple and caraway loaf cake | A kitchen in Rome",
+                        "description": "This week, thanks go to Romanian cook Irina Georgescu for this apple and caraway cake, which comes together quickly, smells like heaven and tastes like it, too Plants in the umbelliferae family are easy to spot. They look like umbrellas, or parasols, with str…",
+                        "url": "https://www.theguardian.com/food/2023/feb/20/apple-caraway-loaf-cake-recipe-rachel-roddy-irina-georgescu",
+                        "urlToImage": "https://i.guim.co.uk/img/media/b64d1e5c54dfa5d755d4e76b73afe429f2ae7430/0_168_1468_881/master/1468.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6117eae4ef3b77cd99d3a9d3ffb71756",
+                        "publishedAt": "2023-02-20T11:00:35Z",
+                        "content": "Plants in the umbelliferae family are easy to spot. They look like umbrellas, or parasols, with straight stems that, at a certain point, split into spokes that hold a lacy blossom cap. Identifying wh… [+3593 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": null,
+                            "name": "MacRumors",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "Tim Hardwick",
+                        "title": "How to Set Up and Use the Built-in 2FA Code Generator in iOS",
+                        "description": "With online account hacking becoming increasingly widespread, all users should make sure they're taking every security measure available to them. If you use Apple devices, consider using Apple verification codes to protect your accounts. Keep reading to learn…",
+                        "url": "https://www.macrumors.com/how-to/set-up-and-use-2fa-ios/",
+                        "urlToImage": "https://images.macrumors.com/t/CRod7L4sL9ESHOqblJznXzws8AM=/2844x/article-new/2020/07/iPhone-Security-Feature-1.jpg",
+                        "publishedAt": "2023-02-23T00:49:04Z",
+                        "content": "With online account hacking becoming increasingly widespread, all users should make sure they're taking every security measure available to them. If you use Apple devices, consider using Apple verifi… [+2896 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": "google-news",
+                            "name": "Google News",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": null,
+                        "title": "Apple iPhone 15 Plus' CAD-based renders surface showing Dynamic Island and USB-C - GSMArena.com news - GSMArena.com",
+                        "description": "<ol><li>Apple iPhone 15 Plus' CAD-based renders surface showing Dynamic Island and USB-C - GSMArena.com news  GSMArena.com\r\n</li><li>NEW iPhone 15 Pro is going to be Dark Red! #iphone15ultra #9to5mac #ios16  9to5Mac\r\n</li><li>Renders Depict iPhone 15 Plus Wit…",
+                        "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3LmdzbWFyZW5hLmNvbS9hcHBsZV9pcGhvbmVfMTVfcGx1c19kZXNpZ25fY2FkX3JlbmRlcnMtbmV3cy01NzY5NS5waHDSAUxodHRwczovL20uZ3NtYXJlbmEuY29tL2FwcGxlX2lwaG9uZV8xNV9wbHVzX2Rlc2lnbl9jYWRfcmVuZGVycy1hbXAtNTc2OTUucGhw?oc%3D5&gl=FR&hl=en-US&pc=n&src=1",
+                        "urlToImage": null,
+                        "publishedAt": "2023-02-25T10:56:01Z",
+                        "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": null,
+                            "name": "The Guardian",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "Samuel Gibbs Consumer technology editor",
+                        "title": "MacBook Pro M2 Pro review: Apple’s best laptop gets more power and battery life",
+                        "description": "Updated chips give already great 14in model a boost but the hefty price hike stingsApple’s M2 Pro chip upgrade for the MacBook Pro boosts performance and battery life in an already extremely capable machine – but it comes with a sizable price increase, making…",
+                        "url": "https://www.theguardian.com/technology/2023/feb/20/macbook-pro-m2-pro-review-apples-best-laptop-gets-more-power-and-battery-life",
+                        "urlToImage": "https://i.guim.co.uk/img/media/ee84f3423fa26941b198756e59236676a81dd6df/132_378_5253_3151/master/5253.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=69366e7e0c408b31d35b68cf6f027bd7",
+                        "publishedAt": "2023-02-20T07:00:30Z",
+                        "content": "Apples M2 Pro chip upgrade for the MacBook Pro boosts performance and battery life in an already extremely capable machine but it comes with a sizable price increase, making it particularly expensive… [+5395 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": null,
+                            "name": "The Guardian",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "Anna Tims",
+                        "title": "Disabled daughter lost £2,449 in Santander bank switch",
+                        "description": "She was woken up by an Apple Pay alert to discover the money had disappearedMy daughter has started a degree course and arranged to transfer her Santander account to a new student account with HSBC. One night she was woken up by mobile phone alerts from Apple…",
+                        "url": "https://www.theguardian.com/money/2023/feb/22/disabled-daughter-lost-2449-in-santander-bank-switch",
+                        "urlToImage": "https://i.guim.co.uk/img/media/bfbca04df13208fc078f0455fd844b87e858f618/0_173_5184_3110/master/5184.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0ce8e800cde66a41744d4d9ece9a473f",
+                        "publishedAt": "2023-02-22T07:00:19Z",
+                        "content": "My daughter has started a degree course and arranged to transfer her Santander account to a new student account with HSBC. One night she was woken up by mobile phone alerts from Apple Pay, informing … [+2356 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": null,
+                            "name": "Hipertextual",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "Luis del Barco",
+                        "title": "iPhone 15: precio, fecha y todo lo que sabemos sobre el nuevo smartphone de Apple",
+                        "description": "El iPhone 15 comienza a ser ya objeto de mención en los círculos tecnológicos. Sí, quedan aún meses para la presentación del próximo smartphone de Apple, pero los rumores empiezan a coger fuerza. Y es que este dispositivo y todas las variantes con las que lle…",
+                        "url": "http://hipertextual.com/2023/02/iphone-15-caracteristicas-precio-cuando-sale",
+                        "urlToImage": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2023/02/iPhone-15-scaled.jpg?fit=2560%2C1665&quality=55&strip=all&ssl=1",
+                        "publishedAt": "2023-02-21T07:01:00Z",
+                        "content": "El iPhone 15 comienza a ser ya objeto de mención en los círculos tecnológicos. Sí, quedan aún meses para la presentación del próximo smartphone de Apple, pero los rumores empiezan a coger fuerza.\r\nY … [+8933 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": null,
+                            "name": "9to5Mac",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "Benjamin Mayo",
+                        "title": "Apple TV+ shows and movies: Everything to watch on Apple TV Plus",
+                        "description": "Apple TV+ offers exclusive Apple original TV shows and movies in 4K HDR quality. You can watch across all of your screens and pick up where you left off on any device. Apple TV+ costs $6.99 per month. Here’s every Apple original television show and movie avai…",
+                        "url": "https://9to5mac.com/2023/02/24/apple-tv-plus-tv-shows-movies-guide/",
+                        "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2019/12/apple-tv-plus.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+                        "publishedAt": "2023-02-24T09:25:57Z",
+                        "content": "Apple TV+ offers exclusive Apple original TV shows and movies in 4K HDR quality. You can watch across all of your screens and pick up where you left off on any device. Apple TV+ costs $6.99 per month… [+58023 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": null,
+                            "name": "MacRumors",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "Joe Rossignol",
+                        "title": "Foxconn Reportedly Working on Apple's Cheaper Second-Generation Headset",
+                        "description": "Apple's long-rumored AR/VR headset has yet to be announced, but Nikkei Asia today reported that the company's manufacturing partner Foxconn is already developing a cheaper second-generation version of the headset.\n\n\n\nImage Credit: Ian Zelbo\n\nThe report cites …",
+                        "url": "https://www.macrumors.com/2023/02/23/cheaper-apple-headset-foxconn-report/",
+                        "urlToImage": "https://images.macrumors.com/t/1ZjGCy9t65PxnQjt09BL_o6oGLg=/3840x/article-new/2021/12/apple-ar-headset-concept-1.jpeg",
+                        "publishedAt": "2023-02-23T05:12:35Z",
+                        "content": "Apple's long-rumored AR/VR headset has yet to be announced, but Nikkei Asia today reported that the company's manufacturing partner Foxconn is already developing a cheaper second-generation version o… [+1340 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": null,
+                            "name": "9to5Mac",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "Bradley Chambers",
+                        "title": "Addigy releases its 2023 State of the Apple Device Management Industry Report for MSPs",
+                        "description": "Earlier today, Addigy released its 2023 State of the Apple Device Management Industry Report for MSPs. The report is based on a survey of 480 managed services providers from around the world and covers various topics, including Apple device management pricing…",
+                        "url": "https://9to5mac.com/2023/02/22/addigy-state-of-apple-device-management/",
+                        "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/02/Addigy-2-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+                        "publishedAt": "2023-02-23T02:00:00Z",
+                        "content": "Earlier today, Addigy released its 2023 State of the Apple Device Management Industry Report for MSPs. The report is based on a survey of 480 managed services providers from around the world and cove… [+2348 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": null,
+                            "name": "9to5Mac",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "Bradley Chambers",
+                        "title": "Apple @ Work Podcast: Where did the name Meeting Owl come from?",
+                        "description": "Apple @ Work is brought to you by Mosyle, the only Apple Unified Platform. Mosyle is the only solution that fully integrates 5 different applications on a single Apple-only platform, allowing Businesses to easily and automatically deploy, manage & protect all…",
+                        "url": "https://9to5mac.com/2023/02/21/meeting-owl-2/",
+                        "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2019/08/Apple-at-Work.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
+                        "publishedAt": "2023-02-21T11:00:00Z",
+                        "content": "Apple @ Work is brought to you by Mosyle, the only Apple Unified Platform. Mosyle is the only solution that fully integrates 5 different applications on a single Apple-only platform, allowing Busines… [+1337 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": null,
+                            "name": "9to5Mac",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "Benjamin Mayo",
+                        "title": "Kuo: Second-generation Apple headset coming in 2025; Apple plans low-end and high-end option",
+                        "description": "Although the first-generation Apple headset is yet to be officially announced, the rumor mill is already full steam ahead discussing the plans for the second generation of the device.\nToday, respected Apple analyst Ming-Chi Kuo says that Apple expects to laun…",
+                        "url": "https://9to5mac.com/2023/02/24/kuo-apple-headset-second-gen-two-models/",
+                        "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/12/Apple-headset-realityOS-xrOS.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+                        "publishedAt": "2023-02-24T11:18:06Z",
+                        "content": "Although the first-generation Apple headset is yet to be officially announced, the rumor mill is already full-steam ahead discussing the plans for the second generation of the device.\r\nToday, respect… [+1607 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": null,
+                            "name": "heise online",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "Ben Schwan",
+                        "title": "Apple-Kreditkarte: Bislang ein Verlustgeschäft – für die Bank",
+                        "description": "Apple-Partner Goldman Sachs hat eine Milliarde US-Dollar Miese gemacht. Der Grund soll vor allem die Apple Card sein – auch wegen ihrer günstigen Konditionen.",
+                        "url": "https://www.heise.de/news/Apple-Kreditkarte-Bislang-ein-Verlustgeschaeft-fuer-die-Bank-7519467.html",
+                        "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/7/0/3/8/7/7/apple_card_reklame-c258f78757ffb273.png",
+                        "publishedAt": "2023-02-20T10:45:00Z",
+                        "content": "Apples seit 2019 in den USA verfügbare Kreditkarte, die Apple Card, ist offenbar ein Verlustgeschäft zumindest für die ausgebende Bank. Aktuellen Zahlen des Geldhauses Goldman Sachs (GS) zufolge, die… [+2479 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": null,
+                            "name": "heise online",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "Ben Schwan",
+                        "title": "Wettbewerbsverfahren: USA verschärfen Vorgehen gegen Apple",
+                        "description": "Mehr Ankläger und die Einbeziehung des wichtigsten Wettbewerbshüters: Das US-Justizministerium überlegt, das Monopolverfahren gegen Apple auszudehnen.",
+                        "url": "https://www.heise.de/news/Wettbewerbsverfahren-USA-verschaerfen-Vorgehen-gegen-Apple-7522290.html",
+                        "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/7/0/5/3/8/8/shutterstock_1891132747-640951c9b9e4e81e.jpg",
+                        "publishedAt": "2023-02-22T09:28:00Z",
+                        "content": "Die seit 2019 laufende Untersuchung, ob Apple in den USA unter die Monopolgesetzgebung fallen könnte, wird vom zuständigen US-Justizministerium (U.S. Department of Justice, DoJ) verschärft. Wie das W… [+2556 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": null,
+                            "name": "MacRumors",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "Tim Hardwick",
+                        "title": "Sonos Era 300 and Era 100 Smart Speakers Revealed in Marketing Images",
+                        "description": "Popular speaker company Sonos is preparing to launch new high-end \"Era\" smart speakers to compete with Apple's HomePod range, and The Verge has obtained marketing images of the products as well as some rough pricing information ahead of their release next mon…",
+                        "url": "https://www.macrumors.com/2023/02/21/sonos-era-300-100-marketing-images/",
+                        "urlToImage": "https://images.macrumors.com/t/W6KfLMsn11OoRXVRjgO6Gt4Xhos=/1600x/article-new/2023/02/sonos-era300white.jpg",
+                        "publishedAt": "2023-02-21T11:30:35Z",
+                        "content": "Popular speaker company Sonos is preparing to launch new high-end \"Era\" smart speakers to compete with Apple's HomePod range, and The Verge has obtained marketing images of the products as well as so… [+2309 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": null,
+                            "name": "MacRumors",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "Joe Rossignol",
+                        "title": "iPhone 15 Lineup Rumored to Feature More Power-Efficient OLED Displays",
+                        "description": "iPhone 15 models will be equipped with a more power-efficient OLED display driver chip manufactured based on a 28nm process, compared to 40nm for current models, according to a report today from Taiwan's Economic Daily News.\n\n\n\n\n\nThe primary benefit of the 28…",
+                        "url": "https://www.macrumors.com/2023/02/22/iphone-15-more-power-efficient-oled-displays-rumor/",
+                        "urlToImage": "https://images.macrumors.com/t/PCK2mSmoTxF393S8YUYA3EBEoS4=/1600x/article-new/2023/02/iphone-14-pro-max-deep-purple-feature-yellow.jpg",
+                        "publishedAt": "2023-02-23T04:46:19Z",
+                        "content": "iPhone 15 models will be equipped with a more power-efficient OLED display driver chip manufactured based on a 28nm process, compared to 40nm for current models, according to a report today from Taiw… [+581 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": null,
+                            "name": "Xataka.com",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "Javier Pastor",
+                        "title": "El glucómetro del Apple Watch está más cerca que nunca: un potencial aliado contra la diabetes",
+                        "description": "Apple lleva años tratando de desarrollar un glucómetro para el Apple Watch. Este sensor permite monitorizar los niveles de azúcar en sangre, algo crucial para las mllones de personas en el mundo que sufren de diabetes y que deben vigilar esos niveles constant…",
+                        "url": "https://www.xataka.com/medicina-y-salud/glucometro-apple-watch-esta-cerca-que-nunca-eso-convertira-potente-aliado-diabetes",
+                        "urlToImage": "https://i.blogs.es/1ba555/captura-de-pantalla-2023-02-23-a-las-9.27.21/840_560.jpeg",
+                        "publishedAt": "2023-02-23T08:47:13Z",
+                        "content": "Apple lleva años tratando de desarrollar un glucómetro para el Apple Watch. Este sensor permite monitorizar los niveles de azúcar en sangre, algo crucial para las mllones de personas en el mundo que … [+1982 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": null,
+                            "name": "heise online",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "Ben Schwan",
+                        "title": "Größerer Ausfall bei vielen Apple-Diensten",
+                        "description": "In der Nacht zum Freitag kam es bei diversen Apple-Angeboten zu Ausfällen. Auch Entwickler waren teilweise betroffen.",
+                        "url": "https://www.heise.de/news/Groesserer-Ausfall-bei-vielen-Apple-Diensten-7525927.html",
+                        "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/7/0/7/3/0/7/icloud-552ff0529d50cd10.jpeg",
+                        "publishedAt": "2023-02-24T09:16:00Z",
+                        "content": "In der Nacht zum Freitag kam es bei zahlreichen Apple-Diensten zu einer Großstörung. Betroffen waren sowohl Content-Angebote als auch iCloud-Services inklusive E-Mail. Nutzer konnten dabei über einen… [+2354 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": null,
+                            "name": "heise online",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "Ben Schwan",
+                        "title": "iOS-Developer-Beta: Apple verschärft Bedingungen",
+                        "description": "Bislang war es einfach, eine Developer-Beta von iOS auf seinem iPhone zu installieren. In kommenden Betriebssystemen soll dies nur noch gegen Geld möglich sein.",
+                        "url": "https://www.heise.de/news/iOS-Developer-Beta-Apple-verschaerft-Bedingungen-7521006.html",
+                        "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/7/0/4/6/7/7/ios16-preview-54073b0a544e4935.png",
+                        "publishedAt": "2023-02-20T08:54:00Z",
+                        "content": "Apple verschärft die Bedingungen für den Einsatz von iOS-Entwicklerbetas. Künftig wird das Unternehmen eine Art Kopierschutz einsetzen, mit dem nur noch Menschen, die tatsächlich Mitglied des kostenp… [+2575 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": null,
+                            "name": "Android Police",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "Rajesh Pandey",
+                        "title": "Samsung Galaxy Watch 6 might take design inspiration from the Pixel Watch",
+                        "description": "Just like the Apple Watch",
+                        "url": "https://www.androidpolice.com/samsung-galaxy-watch-6-might-take-design-inspiration-pixel-watch/",
+                        "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2022/08/galaxy-watch-5-floral-watch-face-1.jpg",
+                        "publishedAt": "2023-02-24T08:17:54Z",
+                        "content": "The Google Pixel Watch is among our favorite Android smartwatches on the market. Despite its dated internals, Google's first smartwatch delivers an excellent user experience. It also stands out in th… [+1613 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": null,
+                            "name": "Hipertextual",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "Rubén Chicharro",
+                        "title": "Filtrado el iPhone 15: Isla Dinámica, una pantalla más grande y más novedades",
+                        "description": "El iPhone 15 continúa filtrándose meses antes de su lanzamiento. Tras unas primeras imágenes del modelo Pro, 9tO5Mac ha revelado el que podría ser el diseño de la versión más económica que llegarán a la nueva familia de iPhone de Apple, probablemente, durante…",
+                        "url": "http://hipertextual.com/2023/02/iphone-15-diseno-filtrado-isla-dinamica-pantalla-mas-grande",
+                        "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2023/02/iphone-15-004.jpg",
+                        "publishedAt": "2023-02-23T09:34:07Z",
+                        "content": "El iPhone 15 continúa filtrándose meses antes de su lanzamiento. Tras unas primeras imágenes del modelo Pro, 9tO5Mac ha revelado el que podría ser el diseño de la versión más económica que llegarán a… [+2493 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": null,
+                            "name": "Hipertextual",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "Gabriel Erard",
+                        "title": "Europa calienta el debate por la inversión en telecomunicaciones: ¿deben Netflix o Google pagar por el uso de la red?",
+                        "description": "Si existe un debate extenso en Europa, sin dudas es sobre quiénes deben asumir la inversión para mantener y renovar la infraestructura de telecomunicaciones. Los operadores más importantes de la región —Telefónica, Orange, Vodafone y Deutsche Telekom— creen q…",
+                        "url": "http://hipertextual.com/2023/02/europa-calienta-debate-inversion-telecomunicaciones",
+                        "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2023/02/kabiur-rahman-riyad-YzZJUXjb9aw-unsplash-scaled.jpg",
+                        "publishedAt": "2023-02-24T08:16:07Z",
+                        "content": "Si existe un debate extenso en Europa, sin dudas es sobre quiénes deben asumir la inversión para mantener y renovar la infraestructura de telecomunicaciones. Los operadores más importantes de la regi… [+10127 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": null,
+                            "name": "MacRumors",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "Juli Clover",
+                        "title": "Renders Depict iPhone 15 Plus With Slimmed Bezels, USB-C Port, Dynamic Island and More",
+                        "description": "The 6.7-inch iPhone 15 Plus could have some minor design updates compared to the iPhone 14 Plus, according to renders that were shared today by 9to5Mac. The images are said to be based on CAD drawings of the devices that were provided to Apple's supply chain …",
+                        "url": "https://www.macrumors.com/2023/02/24/iphone-15-plus-renders/",
+                        "urlToImage": "https://images.macrumors.com/t/l6vSu4HazNKSD4wWuHiy8KDYuJ4=/1600x/article-new/2023/02/iphone-15-plus-9to5.jpg",
+                        "publishedAt": "2023-02-25T00:43:32Z",
+                        "content": "The 6.7-inch iPhone 15 Plus could have some minor design updates compared to the iPhone 14 Plus, according to renders that were shared today by 9to5Mac. The images are said to be based on CAD drawing… [+1994 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": null,
+                            "name": "9to5Mac",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "Benjamin Mayo",
+                        "title": "Apple reportedly already working with Foxconn on cheaper second-generation AR headset",
+                        "description": "Apple is expected to unveil its first-generation AR/VR headset hardware as soon as WWDC in June. But the first-generation device is expected to be packed with cutting-edge tech, like high-res displays, and many cameras and sensors — all those premium componen…",
+                        "url": "https://9to5mac.com/2023/02/23/apple-headset-cheaper-second-generation/",
+                        "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/01/Apple-headset.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+                        "publishedAt": "2023-02-23T09:52:53Z",
+                        "content": "Apple is expected to unveil its first-generation AR/VR headset hardware as soon as WWDC in June. But the first-generation device is expected to be packed with cutting-edge tech, like high-res display… [+2034 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": null,
+                            "name": "MacRumors",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "Tim Hardwick",
+                        "title": "Leak Suggests iPhone 15 Display Could Be Larger Than iPhone 14",
+                        "description": "Up until now, Apple was expected to release four models in its upcoming iPhone 15 series that replicate the 6.1-inch and 6.7-inch screen sizes of its iPhone 14 series, but a new leak suggests the base iPhone 15 model will have a slightly larger display.\n\n\n\niP…",
+                        "url": "https://www.macrumors.com/2023/02/23/iphone-15-display-larger-than-iphone-14/",
+                        "urlToImage": "https://images.macrumors.com/t/dQZq21dmJHx3YkK_MZNHsVFt7Zo=/1920x/article-new/2023/01/iPhone-15-General-Mock-Feature.jpg",
+                        "publishedAt": "2023-02-23T10:59:19Z",
+                        "content": "Up until now, Apple was expected to release four models in its upcoming iPhone 15 series that replicate the 6.1-inch and 6.7-inch screen sizes of its iPhone 14 series, but a new leak suggests the bas… [+1093 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": null,
+                            "name": "heise online",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "Ben Schwan",
+                        "title": "Apple erzwingt Nutzung von iOS 16.3.1 – wegen Sicherheitslücken in Vorversion",
+                        "description": "Um sicherzustellen, dass Nutzer das aktuelle Betriebssystem verwenden, verbietet Apple nun das Einspielen von iOS 16.3. Darin gab es aktiv ausgenutzte Lücken.",
+                        "url": "https://www.heise.de/news/Apple-erzwingt-Nutzung-von-iOS-16-3-1-wegen-Sicherheitsluecken-in-Vorversion-7523516.html",
+                        "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/7/0/6/0/5/5/ios16-c0d8b3cefa34dff2.png",
+                        "publishedAt": "2023-02-23T06:20:00Z",
+                        "content": "Apple nimmt eine in iOS 16.3.1 geschlossene Sicherheitslücke offensichtlich sehr ernst: Der Konzern hat nun, nur kurze Zeit nach dem Release des jüngsten Betriebssystems, die Signierung der Vorversio… [+1906 chars]"
+                    }
+                ],
+                "articleCount": 30
+            }
+        },
+        {
+            "id": "1",
+            "type": "newsfeedbuckets",
+            "attributes": {
+                "articles": [
+                    {
+                        "source": {
+                            "id": "wired",
+                            "name": "Wired",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "Scott Gilbertson",
+                        "title": "14 Best Deals: Apple iPads, Laptops, and Outdoor Gear",
+                        "description": "Whether you’re looking for new tech to get through long cool nights, or planning a spring camping trip, there are plenty of discounts that can help.",
+                        "url": "https://www.wired.com/story/midweek-deals-022223/",
+                        "urlToImage": "https://media.wired.com/photos/627af5ce194f8820f344ac62/191:100/w_1280,c_limit/Pixel-6a-SOURCE-Google-Gear.jpg",
+                        "publishedAt": "2023-02-23T12:00:00Z",
+                        "content": "Depending on where you live, it's either starting to look a little like spring or still totally socked in winter. Damn that groundhog. Either way, we have some deals for you. Those of you stuck in th… [+5960 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": "engadget",
+                            "name": "Engadget",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "Jon Fingas",
+                        "title": "Apple is reportedly closer to bringing no-prick glucose monitoring to the Watch",
+                        "description": "Apple's long-running quest to bring blood glucose monitoring to the Apple Watch appears to be moving forward. Bloombergsources claim the company's no-prick monitoring is now at a \"proof-of-concept stage\" and good enough that it could come to market once it's …",
+                        "url": "https://www.engadget.com/apple-watch-no-prick-blood-glucose-monitor-200137031.html",
+                        "urlToImage": "https://s.yimg.com/uu/api/res/1.2/R9UgAM5yOpMLSTwrthZPMQ--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2022-12/45544550-7c97-11ed-be7f-b301bffa0c0d.cf.jpg",
+                        "publishedAt": "2023-02-22T20:01:37Z",
+                        "content": "Apple's long-running quest to bring blood glucose monitoring to the Apple Watch appears to be moving forward. Bloombergsources claim the company's no-prick monitoring is now at a \"proof-of-concept st… [+1988 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": "wired",
+                            "name": "Wired",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "Matt Burgess",
+                        "title": "A New Kind of Bug Spells Trouble for iOS and macOS Security",
+                        "description": "Security researchers found a class of flaws that, if exploited, would allow an attacker to access people’s messages, photos, and call history.",
+                        "url": "https://www.wired.com/story/trellix-ios-macos-bug-nspredicate/",
+                        "urlToImage": "https://media.wired.com/photos/63f01807552920ecdc857ecf/191:100/w_1280,c_limit/A-New-Kind-of-Bug-Spells-Trouble-for-iOS-and-macOS-Security-Security-GettyImages-1025063448.jpg",
+                        "publishedAt": "2023-02-21T13:00:00Z",
+                        "content": "For years, Apple has hardened the security systems on iPhones and Macs. But no company is immune from such issues. Research reveals a new class of bugs that can affect Apples iPhone and Mac operating… [+3708 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": null,
+                            "name": "Lifehacker.com",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "Jake Peterson",
+                        "title": "Why You Should Turn Off Auto-Brightness on Your Phone",
+                        "description": "Apple advertises its newest iPhone as having the brightest screen yet, but when you use it, you probably can’t help but to think, “Shouldn’t this be brighter?” You might even compare it to other screens that look much brighter than yours. It’s not you: It’s a…",
+                        "url": "https://lifehacker.com/why-you-should-turn-off-auto-brightness-on-your-phone-1850145521",
+                        "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/c79397378a9bfa0f51036a7bf2c9afa0.jpg",
+                        "publishedAt": "2023-02-22T21:00:00Z",
+                        "content": "Apple advertises its newest iPhone as having the brightest screen yet, but when you use it, you probably cant help but to think, Shouldnt this be brighter? You might even compare it to other screens … [+3709 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": "engadget",
+                            "name": "Engadget",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "Billy Steele",
+                        "title": "Beats Fit Pro earbuds now come in three new colors",
+                        "description": "Beats Fit Pro debuted in late 2021, but the earbuds remain the best true wireless option from the Apple-owned company well over a year later. Today, Beats is adding three new colors for the fitness-focused model: coral pink, volt yellow and tidal blue. These …",
+                        "url": "https://www.engadget.com/beats-fit-pro-earbuds-now-come-in-three-new-colors-150003873.html",
+                        "urlToImage": "https://s.yimg.com/uu/api/res/1.2/lnE052IPhLw2b2pIwTA2EQ--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-02/bb95f9c0-b158-11ed-a5fe-8345928fa72a.cf.jpg",
+                        "publishedAt": "2023-02-21T15:00:03Z",
+                        "content": "Beats Fit Pro debuted in late 2021, but the earbuds remain the best true wireless option from the Apple-owned company well over a year later. Today, Beats is adding three new colors for the fitness-f… [+1090 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": null,
+                            "name": "Lifehacker.com",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "Jake Peterson",
+                        "title": "The Best Authenticator Apps for iPhone and Android",
+                        "description": "Two-factor authentication (2FA) is essential for securing your accounts these days. It isn’t enough to have a password anymore. Between password leaks, and weak and reused passwords, it’s too easy for hackers to figure out your secrets and break into your acc…",
+                        "url": "https://lifehacker.com/the-best-authenticator-apps-for-iphone-and-android-1850140802",
+                        "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/4a197ec6dd6f16873227408161c3b9c0.jpg",
+                        "publishedAt": "2023-02-21T22:30:00Z",
+                        "content": "Two-factor authentication (2FA) is essential for securing your accounts these days. It isnt enough to have a password anymore. Between password leaks, and weak and reused passwords, its too easy for … [+6092 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": "engadget",
+                            "name": "Engadget",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "Igor Bonifacic",
+                        "title": "YouTube Music's redesigned radio experience allows you to create totally custom stations",
+                        "description": "Almost every music streaming service on the market offers a radio feature, allowing you to create an automatically generated playlist around a song or artist you love. For the most part, however, those features don’t offer a lot of flexibility. You pick a sin…",
+                        "url": "https://www.engadget.com/youtube-musics-redesigned-radio-experience-allows-you-to-create-totally-custom-stations-181729501.html",
+                        "urlToImage": "https://s.yimg.com/uu/api/res/1.2/sBsdBENx0Xc8qM5n1LdeJQ--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-02/1d566f40-b213-11ed-b7bd-407203ed25ca.cf.jpg",
+                        "publishedAt": "2023-02-21T18:17:29Z",
+                        "content": "Almost every music streaming service on the market offers a radio feature, allowing you to create an automatically generated playlist around a song or artist you love. For the most part, however, tho… [+1451 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": null,
+                            "name": "MacRumors",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "Juli Clover",
+                        "title": "App Store, Apple Music, Apple TV+ and More Experiencing Outage",
+                        "description": "Several Apple services appear to be experiencing issues at the current time, according to Apple's System Status page. Outages are impacting the App Store, Apple Books, Apple Music, Apple TV+, Apple TV Channels, the Mac App Store, and Podcasts.\n\n\n\n\n\nAccording …",
+                        "url": "https://www.macrumors.com/2023/02/23/app-store-apple-music-apple-tv-outage/",
+                        "urlToImage": "https://images.macrumors.com/t/AG3rkMN2ogaszSzMX2_ZfdCggKQ=/2250x/article-new/2022/01/iOS-App-Store-General-Feature-Clorange.jpg",
+                        "publishedAt": "2023-02-23T21:34:10Z",
+                        "content": "Several Apple services appear to be experiencing issues at the current time, according to Apple's System Status page. Outages are impacting the App Store, Apple Books, Apple Music, Apple TV+, Apple T… [+386 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": null,
+                            "name": "MacRumors",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "Juli Clover",
+                        "title": "Signed Apple-1 and Sealed Original iPhone Expected to Fetch High Prices at Auction",
+                        "description": "Apple-1 computers are some of the rarest and most expensive Apple-related collectors items that go up for sale, and RR Auction today announced a \"Steve Jobs and the Computer Revolution\" auction that includes an Apple-1 computer.\n\n\n\n\n\nThe Apple-1 for sale is \"…",
+                        "url": "https://www.macrumors.com/2023/02/23/apple-1-original-iphone-auction/",
+                        "urlToImage": "https://images.macrumors.com/t/mydvlwiuEME_lPgRE79slugGgRI=/1600x/article-new/2023/02/apple-1-computer-domain.jpg",
+                        "publishedAt": "2023-02-23T18:40:36Z",
+                        "content": "Apple-1 computers are some of the rarest and most expensive Apple-related collectors items that go up for sale, and RR Auction today announced a \"Steve Jobs and the Computer Revolution\" auction that … [+1312 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": null,
+                            "name": "Gizmodo.com",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "David Nield",
+                        "title": "The Pros and Cons of Repairing Your Own Gadgets",
+                        "description": "When something goes wrong with one of your gadgets, you’re faced with a choice: Fix it yourself, or call in some professional help. With your options for these routes constantly changing (both Apple and Samsung have launched self-repair kits in recent years),…",
+                        "url": "https://gizmodo.com/diy-self-repair-professional-repair-how-to-apple-samsun-1850138240",
+                        "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/d737750a9e4c4a67d56940afd4f95241.jpg",
+                        "publishedAt": "2023-02-24T21:50:00Z",
+                        "content": "When something goes wrong with one of your gadgets, youre faced with a choice: Fix it yourself, or call in some professional help. With your options for these routes constantly changing (both Apple a… [+6610 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": null,
+                            "name": "MacRumors",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "Juli Clover",
+                        "title": "Apple's Noninvasive Blood Glucose Technology for Future Apple Watch Reaches 'Proof-of Concept' Stage",
+                        "description": "Apple has made notable progress on noninvasive blood glucose monitoring technology, according to a new report from Bloomberg's Mark Gurman. Planned as a future Apple Watch feature, Apple wants to use the function to allow diabetics and others to test their bl…",
+                        "url": "https://www.macrumors.com/2023/02/22/apple-blood-glucose-monitoring-technology/",
+                        "urlToImage": "https://images.macrumors.com/t/6Fkwv6GptMAJqXnGbCK2nyjvrqI=/1600x/article-new/2021/01/apple-watch-blood-glucose-feature.jpg",
+                        "publishedAt": "2023-02-22T17:58:35Z",
+                        "content": "Apple has made notable progress on noninvasive blood glucose monitoring technology, according to a new report from Bloomberg's Mark Gurman. Planned as a future Apple Watch feature, Apple wants to use… [+2281 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": null,
+                            "name": "MacRumors",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "Tim Hardwick",
+                        "title": "Apple Orders OLED Panels for 2024 iPad Models From Samsung and LG Display",
+                        "description": "Apple has reportedly ordered OLED panels from LG Display and Samsung for its next generation of iPad Pro models, which are widely expected to arrive next year. \n\n\n\n\n\nBusiness Korea reports that Apple placed orders for the development of 10.9-inch and 12.9-inc…",
+                        "url": "https://www.macrumors.com/2023/02/23/apple-oled-ipad-panels-samsung-lg-2024/",
+                        "urlToImage": "https://images.macrumors.com/t/YHinPljAgi01dOuDZYQNlBwzGVo=/2500x/article-new/2022/07/iPad-Pro-OLED-Feature-2.jpg",
+                        "publishedAt": "2023-02-23T13:13:43Z",
+                        "content": "Apple has reportedly ordered OLED panels from LG Display and Samsung for its next generation of iPad Pro models, which are widely expected to arrive next year. \r\nBusiness Korea reports that Apple pla… [+2160 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": null,
+                            "name": "MacRumors",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "Hartley Charlton",
+                        "title": "Mysterious New 'Compute Module' Found in Apple Beta Code",
+                        "description": "An all-new \"compute module\" device has been spotted in Apple beta code, hinting that new hardware may soon be on the way.\n\n\n\n\n\nThe new \"ComputeModule\" device class was spotted in Apple's iOS 16.4 developer disk image from the Xcode 16.4 beta by 9to5Mac, indic…",
+                        "url": "https://www.macrumors.com/2023/02/23/mysterious-new-compute-module-found-in-apple-code/",
+                        "urlToImage": "https://images.macrumors.com/t/ZnWCapdza5uZM08uiZjE7HAH_qI=/2500x/article-new/2023/01/Mac-Pro-Feature-Teal.jpg",
+                        "publishedAt": "2023-02-23T13:05:23Z",
+                        "content": "An all-new \"compute module\" device has been spotted in Apple beta code, hinting that new hardware may soon be on the way.\r\nThe new \"ComputeModule\" device class was spotted in Apple's iOS 16.4 develop… [+904 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": null,
+                            "name": "Gizmodo.com",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "David Nield",
+                        "title": "How To Print Anything From Your Phone or Tablet, No Laptop Required",
+                        "description": "We’re still not living in a fully paperless world, and all kinds of documents still need to be printed now and again: Application forms, quiz sheets, training materials, wedding speeches, and more all need to be in physical form for one reason or another. How…",
+                        "url": "https://gizmodo.com/how-print-phone-tablet-ios-android-ipad-no-laptop-app-1850114790",
+                        "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/b6208777586bdec34b438825fef05844.jpg",
+                        "publishedAt": "2023-02-24T21:30:00Z",
+                        "content": "Were still not living in a fully paperless world, and all kinds of documents still need to be printed now and again: Application forms, quiz sheets, training materials, wedding speeches, and more all… [+5137 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": "business-insider",
+                            "name": "Business Insider",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "mchittum@insider.com (Morgan Chittum)",
+                        "title": "The Mormon Church and its investment arm will pay $5 million to settle SEC charges that it went to 'great lengths' to avoid disclosures related to its massive portfolio",
+                        "description": "The church has a massive $100 billion investment portfolio, with holdings of public companies including Walmart, Microsoft, and Apple.",
+                        "url": "https://markets.businessinsider.com/news/stocks/mormon-church-invesment-portfolio-sec-charges-disclosure-ensign-peak-lds-2023-2",
+                        "urlToImage": "https://i.insider.com/611a89c9c040ad0018ce78ea?width=1200&format=jpeg",
+                        "publishedAt": "2023-02-21T18:53:42Z",
+                        "content": "The Mormon Church and its investment manager will pay a total of $5 million to settle charges with the US Securities and Exchange Commission over failing to properly disclose holdings in the church's… [+2534 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": "business-insider",
+                            "name": "Business Insider",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "lvaranasi@insider.com (Lakshmi Varanasi)",
+                        "title": "Apple reportedly made a big breakthrough on a secret non-invasive blood glucose monitor project that originally was part of a 'fake' startup",
+                        "description": "Apple kept the project under wraps for years, housing it in an unaffiliated startup called Avolonte Health, Bloomberg said.",
+                        "url": "https://www.businessinsider.com/apple-reportedly-hits-major-milestone-on-blood-glucose-monitor-2023-2",
+                        "urlToImage": "https://i.insider.com/63f694fb88f76900192ce998?width=1200&format=jpeg",
+                        "publishedAt": "2023-02-22T22:41:57Z",
+                        "content": "Apple reportedly had a breakthrough on a secret project that could launch the company into a major force in the healthcare industry, Bloomberg reported Wednesday.\r\nIt's a monitor that can continually… [+1527 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": null,
+                            "name": "MacRumors",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "Eric Slivka",
+                        "title": "Apple's Communication Safety Feature for Children Expanding to 6 New Countries",
+                        "description": "Earlier this month, we noted Apple was working to expand its Communication Safety feature to additional countries, and it appears the next round of expansion will include six new countries.\n\n\n\n\n\nCommunication Safety is an opt-in feature in the Messages app ac…",
+                        "url": "https://www.macrumors.com/2023/02/20/apple-communication-safety-new-countries/",
+                        "urlToImage": "https://images.macrumors.com/t/-3S78lD0hJqO4wlanPBm9zydXZ0=/1600x/article-new/2021/11/communication-safety-feature.jpg",
+                        "publishedAt": "2023-02-20T16:43:10Z",
+                        "content": "Earlier this month, we noted Apple was working to expand its Communication Safety feature to additional countries, and it appears the next round of expansion will include six new countries.\r\nCommunic… [+1700 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": null,
+                            "name": "MacRumors",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "Joe Rossignol",
+                        "title": "Apple Now Testing iOS 16.5 Internally as One of Final Updates Before iOS 17",
+                        "description": "Apple started testing iOS 16.5 internally this month, according to mounting evidence of the update in our website's analytics logs. iOS 16.5 will likely be one of the last notable updates before Apple announces iOS 17 at WWDC in June.\n\n\n\n\n\nIt's unclear what f…",
+                        "url": "https://www.macrumors.com/2023/02/23/apple-testing-ios-16-5/",
+                        "urlToImage": "https://images.macrumors.com/t/hfkmf9MvreiIDIoQm6OXFisHDbU=/1600x/article-new/2023/02/iOS-17-on-Phone-Feature.jpg",
+                        "publishedAt": "2023-02-23T15:03:04Z",
+                        "content": "Apple started testing iOS 16.5 internally this month, according to mounting evidence of the update in our website's analytics logs. iOS 16.5 will likely be one of the last notable updates before Appl… [+1841 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": null,
+                            "name": "MacRumors",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "Juli Clover",
+                        "title": "The iPhone Ultra: Everything We Know About Apple's 2024 High-End iPhone 16",
+                        "description": "Apple in 2024 may introduce a new high-end iPhone 16 \"Ultra\" that would be sold alongside the ‌iPhone‌ 16, ‌iPhone‌ 16 Pro, and ‌iPhone‌ 16 Pro Max as a more expensive, feature rich option.\n\n\n\n\n\nThis guide highlights everything we've heard about the possibili…",
+                        "url": "https://www.macrumors.com/guide/iphone-ultra/",
+                        "urlToImage": "https://images.macrumors.com/t/6CB-Pw6Cjadd0jxTH_SDPC_ufPc=/1600x/article-new/2023/02/iPhone-Ultra-in-Hand-Feature.jpg",
+                        "publishedAt": "2023-02-22T21:25:51Z",
+                        "content": "Apple in 2024 may introduce a new high-end iPhone 16 \"Ultra\" that would be sold alongside the ‌iPhone‌ 16, ‌iPhone‌ 16 Pro, and ‌iPhone‌ 16 Pro Max as a more expensive, feature rich option.\r\nThis gui… [+2155 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": "the-verge",
+                            "name": "The Verge",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "Jay Peters",
+                        "title": "Netflix’s new NFL docuseries starring Patrick Mahomes debuts this summer",
+                        "description": "Netflix is partnering with the NFL on a new sports docuseries, Quarterback, that will focus on three quarterbacks: Patrick Mahomes, Kirk Cousins, and Marcus Mariota.",
+                        "url": "https://www.theverge.com/2023/2/22/23610867/netflix-nfl-quarterback-docuseries-patrick-mahomes",
+                        "urlToImage": "https://cdn.vox-cdn.com/thumbor/vOThXk_eqqXrKvvZjasWQw_YEfA=/0x0:5994x3996/1200x628/filters:focal(2997x1998:2998x1999)/cdn.vox-cdn.com/uploads/chorus_asset/file/24452991/1467159255.jpg",
+                        "publishedAt": "2023-02-22T21:03:18Z",
+                        "content": "Netflixs new NFL docuseries starring Patrick Mahomes debuts this summer\r\nNetflixs new NFL docuseries starring Patrick Mahomes debuts this summer\r\n / The new show, Quarterback, will follow Mahomes, Ki… [+2209 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": null,
+                            "name": "MacRumors",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "Hartley Charlton",
+                        "title": "Imagined Mac Mini Redesign Argues Apple Should Borrow From Mac Studio",
+                        "description": "With the Mac mini's current design dating back over a decade, one MacRumors forums user has imagined what a redesign could look like if Apple was to take hints from the Mac Studio.\n\n\n\n\n\nThe idea mainly comes from MacRumors forums user \"Rickroller,\" who shared…",
+                        "url": "https://www.macrumors.com/2023/02/23/mac-mini-redesign-could-borrow-from-mac-studio/",
+                        "urlToImage": "https://images.macrumors.com/t/3JqDDzsgS9Fzmt-_cOvoajoU29o=/1600x/article-new/2023/02/mac-mini-with-mac-studio-design.jpg",
+                        "publishedAt": "2023-02-23T15:15:03Z",
+                        "content": "With the Mac mini's current design dating back over a decade, one MacRumors forums user has imagined what a redesign could look like if Apple was to take hints from the Mac Studio.\r\nThe idea mainly c… [+2705 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": null,
+                            "name": "Hipertextual",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "Gabriel Erard",
+                        "title": "Apple aún no lanza las Reality Pro, sus gafas de realidad mixta, pero ya trabaja en sus sucesoras",
+                        "description": "Junto con el Apple Car, las gafas de realidad mixta son el producto más esperado de Apple en mucho tiempo. Después de infinidad de rumores, demoras y filtraciones, se espera que los de Cupertino las presenten en sociedad en la WWDC 2023 que se realizará en ju…",
+                        "url": "http://hipertextual.com/2023/02/apple-ya-trabaja-gafas-de-realidad-mixta-segunda-generacion",
+                        "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2022/01/apple-headset-ar-vr-scaled.jpeg",
+                        "publishedAt": "2023-02-24T16:16:52Z",
+                        "content": "Junto con el Apple Car, las gafas de realidad mixta son el producto más esperado de Apple en mucho tiempo. Después de infinidad de rumores, demoras y filtraciones, se espera que los de Cupertino las … [+3965 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": "business-insider",
+                            "name": "Business Insider",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "sjackson@insider.com (Sarah Jackson)",
+                        "title": "Take a look at the gift that Apple gives employees after 10 years — a slab of aluminum along with a signed note from Tim Cook",
+                        "description": "Apple's 10-year work anniversary gift is made from the same aluminum that goes into its devices, and it comes with a $19 polishing cloth. Take a look.",
+                        "url": "https://www.businessinsider.com/see-apple-employees-gift-10-years-signed-by-tim-cook-2023-2",
+                        "urlToImage": "https://i.insider.com/6254c1429c862b00181a72e8?width=1200&format=jpeg",
+                        "publishedAt": "2023-02-22T17:34:58Z",
+                        "content": "Though it's less common for workers today to stay at one employer for a decade or even their whole careers many companies still give employees gifts for big work anniversaries.\r\nAt Apple, employees w… [+1233 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": null,
+                            "name": "Hipertextual",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "Gabriel Erard",
+                        "title": "EE. UU. está muy cerca de prohibir la venta del Apple Watch, pero la realidad es más complicada de lo que crees",
+                        "description": "Por estas horas, una decisión de Joe Biden está haciendo mucho ruido en el Apple Park. El presidente de Estados Unidos ratificó un fallo de la Comisión de Comercio Internacional (ITC), que en diciembre concluyó que el Apple Watch violaba patentes de una empre…",
+                        "url": "http://hipertextual.com/2023/02/puede-estados-unidos-bloquear-importacion-apple-watch",
+                        "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2022/09/Apple-Watch-Series-8-8-scaled.jpg",
+                        "publishedAt": "2023-02-22T13:09:25Z",
+                        "content": "Por estas horas, una decisión de Joe Biden está haciendo mucho ruido en el Apple Park. El presidente de Estados Unidos ratificó un fallo de la Comisión de Comercio Internacional (ITC), que en diciemb… [+5275 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": null,
+                            "name": "MacRumors",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "Tim Hardwick",
+                        "title": "Apple Orders Entire Supply of TSMC's 3nm Chips for iPhone 15 Pro and M3 Macs",
+                        "description": "Apple has reportedly secured all available orders for N3, TSMC's first-generation 3-nanometer process that is likely to be used in the upcoming iPhone 15 Pro lineup as well as new MacBooks scheduled for launch in the second half of 2023.\n\n\n\n\n\nAccording to a p…",
+                        "url": "https://www.macrumors.com/2023/02/22/apple-secures-tsmc-3nm-chips/",
+                        "urlToImage": "https://images.macrumors.com/t/n8JMxdkOzk8f3BBf2vAizoWlfEI=/1600x/article-new/2020/08/tsmc_semiconductor_chip_inspection_678x452.jpg",
+                        "publishedAt": "2023-02-22T12:08:53Z",
+                        "content": "Apple has reportedly secured all available orders for N3, TSMC's first-generation 3-nanometer process that is likely to be used in the upcoming iPhone 15 Pro lineup as well as new MacBooks scheduled … [+2561 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": null,
+                            "name": "MacRumors",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "Tim Hardwick",
+                        "title": "How to Use Web Apps on iPhone and iPad",
+                        "description": "Apple's mobile software has supported so-called \"web apps\" for years now. But what is a web app, and how do they differ from typical apps used on iPhone and iPad? Here's your short explainer.\n\n\n\n\n\n\n\nWhat is a Web App?\n\nWhen Apple talks about \"web apps,\" it's …",
+                        "url": "https://www.macrumors.com/how-to/use-web-apps-iphone-ipad/",
+                        "urlToImage": "https://images.macrumors.com/t/iFlNOrm1hieXvV9rwWBRaMukbOY=/2000x/article-new/2023/02/How-To-Use-Web-Apps-Feature.jpg",
+                        "publishedAt": "2023-02-20T18:51:00Z",
+                        "content": "Apple's mobile software has supported so-called \"web apps\" for years now. But what is a web app, and how do they differ from typical apps used on iPhone and iPad? Here's your short explainer.\r\nWhat i… [+5090 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": null,
+                            "name": "Slashdot.org",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "msmash",
+                        "title": "Linux 6.2: The First Mainstream Linux Kernel for Apple M1 Chips Arrives",
+                        "description": "Steven Vaughan-Nichols, writing for ZDNet: Linux 6.2 was released yesterday, and Linus Torvalds described the latest Linux kernel release as, \"Maybe it's not a sexy LTS release like 6.1 ended up being, but all those regular pedestrian kernels want some test l…",
+                        "url": "https://linux.slashdot.org/story/23/02/21/0418215/linux-62-the-first-mainstream-linux-kernel-for-apple-m1-chips-arrives",
+                        "urlToImage": "https://a.fsdn.com/sd/topics/os_64.png",
+                        "publishedAt": "2023-02-21T14:00:00Z",
+                        "content": "Linux 6.2 was released yesterday, and Linus Torvalds described the latest Linux kernel release as, \"Maybe it's not a sexy LTS release like 6.1 ended up being, but all those regular pedestrian kernels… [+754 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": null,
+                            "name": "Gizmodo.com",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "David Nield",
+                        "title": "How To Actually Choose a New Smartphone",
+                        "description": "If you’re in the market for a new smartphone, you’ve certainly got plenty of options to pick from—but it’s not necessarily all that easy to spot the differences between the dozens of glass-and-metal-and-plastic slabs that are out there. At the same time, cert…",
+                        "url": "https://gizmodo.com/how-buy-smartphone-chose-ios-android-samsung-phone-mode-1850078990",
+                        "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/d6645812806a71bf4516b80dc374fb52.jpg",
+                        "publishedAt": "2023-02-24T20:45:00Z",
+                        "content": "If youre in the market for a new smartphone, youve certainly got plenty of options to pick frombut its not necessarily all that easy to spot the differences between the dozens of glass-and-metal-and-… [+6475 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": null,
+                            "name": "MacRumors",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "Juli Clover",
+                        "title": "MacRumors Exclusive: iPhone 15 Design Shown Off in Leaked Images Shared by Unknownz21",
+                        "description": "Images said to depict the standard iPhone 15 model were today provided to MacRumors and shared on Twitter by leaker Unknownz21, giving us our first look at the ‌iPhone 15‌'s design in full. \n\n\n\n\n\nThe images show off the USB-C port at the bottom of the iPhone,…",
+                        "url": "https://www.macrumors.com/2023/02/22/iphone-15-images/",
+                        "urlToImage": "https://images.macrumors.com/t/9qInVmUrNsPw6EY3WX3E62-mdck=/1600x/article-new/2023/02/iphone-15-design.jpg",
+                        "publishedAt": "2023-02-22T22:19:42Z",
+                        "content": "Images said to depict the standard iPhone 15 model were today provided to MacRumors and shared on Twitter by leaker Unknownz21, giving us our first look at the ‌iPhone 15‌'s design in full. \r\nThe ima… [+1226 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": "the-verge",
+                            "name": "The Verge",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "Brandon Widder",
+                        "title": "The Beats Fit Pro earbuds in their new bright yellow color are already $30 off",
+                        "description": "The new color of Beats Fit Pro earbuds are on sale for about $170. Apple’s last-gen iPad from 2021 returns to its best price of $269. You can also save on e-bikes, Sony’s SRS-XB33 Bluetooth speaker, and Yeedi’s Vac 2 Pro robot vacuum.",
+                        "url": "https://www.theverge.com/2023/2/24/23612159/beats-fit-pro-apple-ipad-yeedi-vac-sony-srsxb33-bluetooth-speaker-ebikes-deal-sale",
+                        "urlToImage": "https://cdn.vox-cdn.com/thumbor/LM0qykhANgwhopQM5k19Id8xsiQ=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24457952/beats_fit_pro_yellow.jpg",
+                        "publishedAt": "2023-02-24T15:18:29Z",
+                        "content": "The Beats Fit Pro earbuds in their new bright yellow color are already $30 off\r\nThe Beats Fit Pro earbuds in their new bright yellow color are already $30 off\r\n / You can also save on Sonys picnic-fr… [+6757 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": null,
+                            "name": "9to5Mac",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "Chance Miller",
+                        "title": "Apple adds another exec to its growing Apple TV+ advertising team",
+                        "description": "Apple is continuing to expand the advertising team surrounding Apple TV+. The Information reports today that Apple has hired Lauren Fry, a long-time ad sales executive, to “help build a video advertising business” for Apple TV+. \n more…\nThe post Apple adds an…",
+                        "url": "https://9to5mac.com/2023/02/24/apple-tv-plus-advertising-team-more/",
+                        "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/12/Apple-TV-app.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+                        "publishedAt": "2023-02-24T19:47:59Z",
+                        "content": "Apple is continuing to expand the advertising team surrounding Apple TV+. The Informationreports today that Apple has hired Lauren Fry, a long-time ad sales executive, to “help build a video advertis… [+1677 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": "engadget",
+                            "name": "Engadget",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "Jeff Dunn",
+                        "title": "Samsung's Galaxy Watch 5 hits a new low of $220, plus the rest of the week's best tech deals",
+                        "description": "It's a bit of a slow week for tech deals, but we've still found a handful of good prices on gadgets and gear we like. For instance, Samsung's Galaxy Watch 5, our preferred smartwatch for Android users, is down to a new low of $220, while Apple's iPad Air is $…",
+                        "url": "https://www.engadget.com/samsung-galaxy-watch-5-hits-new-low-220-best-tech-deals-this-week-150048719.html",
+                        "urlToImage": "https://s.yimg.com/uu/api/res/1.2/aH5_4OVNnLABRokwglPEBQ--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2022-08/61396fe0-2493-11ed-9ffd-254410c436db.cf.jpg",
+                        "publishedAt": "2023-02-24T15:00:48Z",
+                        "content": "It's a bit of a slow week for tech deals, but we've still found a handful of good prices on gadgets and gear we like. For instance, Samsung's Galaxy Watch 5, our preferred smartwatch for Android user… [+7127 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": null,
+                            "name": "MacRumors",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "Joe Rossignol",
+                        "title": "iPhone 15 Rumored to Feature RAM Improvements, 8GB Likely for Pro Models",
+                        "description": "The next-generation iPhone 15 series will feature RAM improvements, according to a new report from Taiwanese research firm TrendForce.\n\n\n\n\n\nApple will \"bump up the capacity and specifications\" of RAM for iPhone 15 models, the report claims. Based on this word…",
+                        "url": "https://www.macrumors.com/2023/02/21/iphone-15-pro-increased-ram-rumor/",
+                        "urlToImage": "https://images.macrumors.com/t/pFMmZmk311K4MXdBLtWP9UWQGdA=/2500x/article-new/2022/09/iphone-14-pro-max-deep-purple.jpg",
+                        "publishedAt": "2023-02-21T14:56:02Z",
+                        "content": "The next-generation iPhone 15 series will feature RAM improvements, according to a new report from Taiwanese research firm TrendForce.\r\nApple will \"bump up the capacity and specifications\" of RAM for… [+1122 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": null,
+                            "name": "Boing Boing",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "Thom Dunn",
+                        "title": "\"Criminal\" singer Fiona Apple now a full-time court watcher",
+                        "description": "My earliest memory of Fiona Apple is watching her give that infamous \"This world is bullshit\" speech live at the VMAs. I was 11 or 12 at the time, and I know I'd least seen the video for \"Criminal,\" but my blossoming adolescent male mind presumably had no ide…",
+                        "url": "https://boingboing.net/2023/02/22/criminal-singer-fiona-apple-now-a-full-time-court-watcher.html",
+                        "urlToImage": "https://i0.wp.com/boingboing.net/wp-content/uploads/2023/02/maxresdefault-47.jpg?fit=1200%2C675&ssl=1",
+                        "publishedAt": "2023-02-22T15:55:14Z",
+                        "content": "My earliest memory of Fiona Apple is watching her give that infamous \"This world is bullshit\" speech live at the VMAs. I was 11 or 12 at the time, and I know I'd least seen the video for \"Criminal,\" … [+2569 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": null,
+                            "name": "Android Central",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "michael.hicks@futurenet.com (Michael L Hicks)",
+                        "title": "Samsung Galaxy S23 Plus vs. iPhone 14 Plus: Which Plus-sized phone is best?",
+                        "description": "Both of these mid-level phones give you a large display and excellent performance in the $1,000 price range, but we'd only recommend you buy one of them.",
+                        "url": "https://www.androidcentral.com/phones/samsung-galaxy-s23-plus-vs-iphone-14-plus",
+                        "urlToImage": "https://cdn.mos.cms.futurecdn.net/Yjc9bLWRK62a8xy4Kmat78-1200-80.jpeg",
+                        "publishedAt": "2023-02-23T14:23:24Z",
+                        "content": "The iPhone 14 Plus pretty notoriously fell short of Apple's sales expectations, as most users appeared to be uninterested in a jumbo-sized iPhone 14 compared to the revamped iPhone 14 Pro. The Samsun… [+11506 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": null,
+                            "name": "9to5Mac",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "Filipe Espósito",
+                        "title": "App Store, Apple Music and other Apple services currently facing outage",
+                        "description": "If you’re experiencing problems when trying to access some of Apple services, you’re not alone. App Store, Apple Music, Apple TV+, and other online services from the company are currently down for some users.\n more…\nThe post App Store, Apple Music and other A…",
+                        "url": "https://9to5mac.com/2023/02/23/app-store-apple-music-outage/",
+                        "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/01/icloud-down.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+                        "publishedAt": "2023-02-23T21:44:31Z",
+                        "content": "If youre experiencing problems when trying to access some of Apple services, youre not alone. App Store, Apple Music, Apple TV+, and other online services from the company are currently down for some… [+891 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": null,
+                            "name": "Hipertextual",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "Tomás Rivero",
+                        "title": "Linux 6.2 estrena soporte para los chips M1 de Apple, pero con limitaciones",
+                        "description": "Ayer mismo se lanzó Linux 6.2. Además de sus múltiples novedades, su creador, Linus Torvalds, ha resaltado el lanzamiento de esta última versión como un logro trascendental para el sistema operativo. La razón es clara, y es que, después de varios quebraderos …",
+                        "url": "http://hipertextual.com/2023/02/linux-6-2-estrena-soporte-para-chips-m1-con-limitacions",
+                        "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2023/02/Apple-M1.jpg",
+                        "publishedAt": "2023-02-21T15:36:35Z",
+                        "content": "Ayer mismo se lanzó Linux 6.2. Además de sus múltiples novedades, su creador, Linus Torvalds, ha resaltado el lanzamiento de esta última versión como un logro trascendental para el sistema operativo.… [+3087 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": null,
+                            "name": "Boing Boing",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "Boing Boing's Shop",
+                        "title": "At $139.99, this Apple iPad mini 4 and accessories bundle is your ticket to inexpensive, high-quality tech",
+                        "description": "We thank our sponsor for making this content possible; it is not written by the editorial staff nor does it necessarily reflect its views.\n\n\n\nIt's okay to crave the latest and greatest technology. We all do it. Just when you thought you were in the know, more…",
+                        "url": "https://boingboing.net/2023/02/23/at-139-99-this-apple-ipad-mini-4-and-accessories-bundle-is-your-ticket-to-inexpensive-high-quality-tech.html",
+                        "urlToImage": "https://i0.wp.com/boingboing.net/wp-content/uploads/2023/02/iPad.jpeg?fit=1200%2C800&ssl=1",
+                        "publishedAt": "2023-02-23T16:00:00Z",
+                        "content": "We thank our sponsor for making this content possible; it is not written by the editorial staff nor does it necessarily reflect its views.\r\nIt's okay to crave the latest and greatest technology. We a… [+1980 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": null,
+                            "name": "AppleInsider",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "news@appleinsider.com (William Gallagher)",
+                        "title": "US Apple Watch ban unlikely as Apple fights patent claim",
+                        "description": "President Biden will be called on to back or block a ban on Apple Watch sales in the US over patent infringement — but not until after appeals, and not if Apple gets those patents overturned.Back in December 2022, the International Trade Commission (ITC) conf…",
+                        "url": "https://appleinsider.com/articles/23/02/20/us-apple-watch-ban-unlikely-as-apple-fights-patent-claim",
+                        "urlToImage": "https://photos5.appleinsider.com/gallery/49218-96114-000-lead-ECG-xl.jpg",
+                        "publishedAt": "2023-02-20T13:07:49Z",
+                        "content": "AppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nPresident Biden will be called on to back or block a ban on Apple Watch sales in the US over patent infring… [+2388 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": null,
+                            "name": "The Guardian",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "Presented by Max Rushden with Barry Glendenning, Jordan Jarrett-Bryan and John Brewin. Produced by Joel Grove and our executive producer is Danielle Stephens.",
+                        "title": "Arsenal on top, drum’n’bass Q&As and Rashford on fire – Football Weekly podcast",
+                        "description": "Max Rushden is joined by Barry Glendenning, Jordan Jarrett-Bryan and John Brewin to review the weekend’s Premier League actionRate, review, share on Apple Podcasts, Soundcloud, Audioboom, Mixcloud, Acast and Stitcher, and join the conversation on Facebook, Tw…",
+                        "url": "https://www.theguardian.com/football/audio/2023/feb/20/arsenal-on-top-drumnbass-qas-and-rashford-on-fire-football-weekly-podcast",
+                        "urlToImage": "https://i.guim.co.uk/img/media/3aa04039806877de8a04ca715965f2943f9bc9b1/0_140_4170_2502/master/4170.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ea655590e5297b939a77503f7b0a56db",
+                        "publishedAt": "2023-02-20T12:38:17Z",
+                        "content": "Rate, review, share on Apple Podcasts, Soundcloud, Audioboom, Mixcloud, Acast and Stitcher, and join the conversation on Facebook, Twitter and email.\r\nA dramatic 4-2 win away at Aston Villa saw Arsen… [+434 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": null,
+                            "name": "9to5Mac",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "Michael Potuck",
+                        "title": "Apple Arcade Guide: What’s available for iPhone, Mac, Apple TV [New: Lifeline]",
+                        "description": "Apple Arcade launched with close to 100 titles and the service is seeing new games added regularly with over 200 games now in the library. Follow along with our guide on all the available Apple Arcade games.\nNew: The popular narrative-based space adventure Li…",
+                        "url": "https://9to5mac.com/2023/02/24/apple-arcade-games/",
+                        "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/02/apple-arcade-lifeline.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+                        "publishedAt": "2023-02-24T13:45:00Z",
+                        "content": "Apple Arcade launched with close to 100 titles and the service is seeing new games added regularly with over 200 games now in the library. Follow along with our guide on all the available Apple Arcad… [+89702 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": "polygon",
+                            "name": "Polygon",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "Austen Goslin",
+                        "title": "How to watch Party Down’s season 3 revival",
+                        "description": "Party Down season 3 is coming to Starz on Feb. 24 and can be streamed on Roku, Apple TV, Cable, YouTube TV, or Amazon.",
+                        "url": "https://www.polygon.com/23610906/party-down-revival-season-3-how-to-watch-starz",
+                        "urlToImage": "https://cdn.vox-cdn.com/thumbor/VVEcX3_W1__i6foO2y-HCVWMvvs=/0x0:3000x1571/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24453567/Party_Down_s3.jpg",
+                        "publishedAt": "2023-02-22T23:31:59Z",
+                        "content": "Everyones favorite catering-based sitcom is finally back after more than a decade off the air. Party Down returns for a third season in February, and its bringing back stars Adam Scott, Ken Marino, J… [+1377 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": null,
+                            "name": "9to5Mac",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "Chance Miller",
+                        "title": "Apple unveils latest ways researchers are using Apple Watch to ‘explore new frontiers in heart health’",
+                        "description": "Apple has announced a handful of new ways the Apple Watch is being used by researchers to “explore new frontiers in heart health/” The company says that upcoming projects include using the Apple Watch ECG app with children and adolescents, measuring the heart…",
+                        "url": "https://9to5mac.com/2023/02/21/apple-watch-heart-health-research/",
+                        "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/02/apple-watch-heart-health-studies.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+                        "publishedAt": "2023-02-21T14:12:37Z",
+                        "content": "Apple has announced a handful of new ways the Apple Watch is being used by researchers to “explore new frontiers in heart health/” The company says that upcoming projects include using the Apple Watc… [+3053 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": null,
+                            "name": "9to5Mac",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "Chance Miller",
+                        "title": "Apple hits ‘major milestones’ in moonshot to bring noninvasive blood glucose monitoring to Apple Watch",
+                        "description": "Apple’s efforts to bring glucose monitoring features to the Apple Watch have been reported on a few times over the years, but the company has reportedly had several major breakthroughs recently. According to a new report from Bloomberg, Apple has hit “major m…",
+                        "url": "https://9to5mac.com/2023/02/22/apple-hits-major-milestones-in-moonshot-to-bring-noninvasive-blood-glucose-monitoring-to-apple-watch/",
+                        "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/02/apple-watch-series-x-rumors.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+                        "publishedAt": "2023-02-22T17:51:46Z",
+                        "content": "Apples efforts to bring glucose monitoring features to the Apple Watch have been reported on a few times over the years, but the company has reportedly had several major breakthroughs recently. Accor… [+3669 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": null,
+                            "name": "9to5Mac",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "Ben Lovejoy",
+                        "title": "Apple granted patent for color-changing Apple Watch band, controlled by an app",
+                        "description": "It sounds like science fiction, but Apple has been granted a patent for a color-changing Apple Watch band – with different color combinations selectable from a Watch app.\nThe patent even describes the band being able to display “icons, shapes, and text,” and …",
+                        "url": "https://9to5mac.com/2023/02/22/color-changing-apple-watch-bands/",
+                        "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/02/Apple-Watch-bands-that-change-color.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+                        "publishedAt": "2023-02-22T12:32:31Z",
+                        "content": "It sounds like science fiction, but Apple has been granted a patent for a color-changing Apple Watch band with different color combinations selectable from a Watch app.\r\nThe patent even describes the… [+3399 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": null,
+                            "name": "9to5Mac",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "Chance Miller",
+                        "title": "Florida AG wants to force Apple to flag ‘foreign developed and owned’ apps for customers",
+                        "description": "As part of privacy concerns over TikTok, Florida’s Attorney General is pushing Apple and Google to warn customers when they are about to download an app that is “foreign developed and owned.” In a letter to Apple CEO Tim Cook, Attorney General Ashely Moore sa…",
+                        "url": "https://9to5mac.com/2023/02/21/florida-ag-wants-to-force-apple-to-flag-foreign-developed-and-owned-apps-for-customers/",
+                        "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/09/App-Store-prices.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+                        "publishedAt": "2023-02-21T19:06:07Z",
+                        "content": "As part of privacy concerns over TikTok, Floridas Attorney General is pushing Apple and Google to warn customers when they are about to download an app that is foreign developed and owned. In a lette… [+2038 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": null,
+                            "name": "9to5Mac",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "Chance Miller",
+                        "title": "Apple Watch user recounts harrowing health scare: ‘I’d have just passed out and died without ever knowing’",
+                        "description": "Time and time again, the Apple Watch has been credited with saving lives with its heart monitoring, Emergency SOS, and fall detection features. Now, an Apple Watch user has taken to Reddit to share how their Series 7 saved their life, saying, “I’d have just p…",
+                        "url": "https://9to5mac.com/2023/02/20/apple-health-health-scare-bleeding-saves-life/",
+                        "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/02/apple-watch-heart-rate.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+                        "publishedAt": "2023-02-20T14:56:26Z",
+                        "content": "Time and time again, the Apple Watch has been credited with saving lives with its heart monitoring, Emergency SOS, and fall detection features. Now, an Apple Watch user has taken to Reddit to share h… [+2298 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": null,
+                            "name": "9to5Mac",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "Zac Hall",
+                        "title": "Wish Apple Watch faces had light and dark mode? Here’s how to do it",
+                        "description": "Apple Watch faces are very customizable when it comes to picking colors and app complications. Unlike iPhone and Mac, however, Apple Watch doesn’t really offer a way to switch between light and dark mode. Fortunately, Apple Shortcuts lets you workaround this …",
+                        "url": "https://9to5mac.com/2023/02/24/apple-watch-face-light-dark-mode-automation/",
+                        "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2019/09/Apple-Watch-Edition-Series-5-ceramic-5.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+                        "publishedAt": "2023-02-24T17:31:59Z",
+                        "content": "Apple Watch faces are very customizable when it comes to picking colors and app complications. Unlike iPhone and Mac, however, Apple Watch doesn’t really offer a way to switch between light and dark … [+4831 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": "business-insider",
+                            "name": "Business Insider",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "kduffy@insider.com (Kate Duffy)",
+                        "title": "A first-generation iPhone from 2007 sold for $63,356 at auction — more than 100 times its original price",
+                        "description": "The iPhone from 2007 was originally sold for $599. The owner didn't open or use the iPhone after receiving it more than 15 years ago.",
+                        "url": "https://www.businessinsider.com/first-generation-apple-iphone-2007-sold-auction-higher-original-price-2023-2",
+                        "urlToImage": "https://i.insider.com/63f36a585ca81e0018557987?width=1200&format=jpeg",
+                        "publishedAt": "2023-02-20T13:22:09Z",
+                        "content": "A first-generation, unopened iPhone from 2007 sold for more than $63,000 at an auction on Sunday. It's the highest price an original iPhone has been sold for.\r\nLCG Auctions, which handled the auction… [+1328 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": null,
+                            "name": "9to5Mac",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "Filipe Espósito",
+                        "title": "Apple could be new home for Pac-12 football streaming after passing on NFL",
+                        "description": "Apple has been investing a lot in live sports recently; even after giving up on NFL Sunday Ticket last year, the company is still interested in bringing more sports to Apple TV. This time, Apple has been rumored as the potential acquirer of the streaming righ…",
+                        "url": "https://9to5mac.com/2023/02/21/apple-pac-12-football-streaming/",
+                        "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/02/Apple-TV-Pac-12-deal-streaming.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+                        "publishedAt": "2023-02-21T22:34:06Z",
+                        "content": "Apple has been investing a lot in live sports recently; even after giving up on NFL Sunday Ticket last year, the company is still interested in bringing more sports to Apple TV. This time, Apple has … [+2070 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": null,
+                            "name": "The Guardian",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "Sarah Butler",
+                        "title": "Apples and pears could be next UK food shortage, farmers warn",
+                        "description": "Growers say they do not get paid enough by supermarkets, as supply of leeks also comes under threatApples and pears could be the next food shortage in the UK, after it emerged that British growers are planting just a third of the number of trees needed to mai…",
+                        "url": "https://www.theguardian.com/business/2023/feb/24/apples-pears-uk-food-shortage-farmers-leeks",
+                        "urlToImage": "https://i.guim.co.uk/img/media/510d5f2c1773dd1c457dc078fda4f6b1b887adaa/0_0_3600_2161/master/3600.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ef099a0137b6b4380620125822461b41",
+                        "publishedAt": "2023-02-24T16:20:56Z",
+                        "content": "Apples and pears could be the next food shortage in the UK, after it emerged that British growers are planting just a third of the number of trees needed to maintain orchards, saying their returns fr… [+5320 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": null,
+                            "name": "9to5Mac",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "Chance Miller",
+                        "title": "Apple Store app updated with new features for shopping lists, more details on retail stores",
+                        "description": "There’s a new update for the Apple Store app for iPhone and iPad that adds new features focused on lists and saved items. The update also makes it easier to find more details on Apple Store locations and their surroundings. \n more…\nThe post Apple Store app up…",
+                        "url": "https://9to5mac.com/2023/02/20/apple-store-app-lists-retail-stores/",
+                        "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/02/apple-store-app.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+                        "publishedAt": "2023-02-20T20:50:21Z",
+                        "content": "There’s a new update for the Apple Store app for iPhone and iPad that adds new features focused on lists and saved items. The update also makes it easier to find more details on Apple Store locations… [+1373 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": null,
+                            "name": "MacRumors",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "Joe Rossignol",
+                        "title": "Kuo: iPhone 15 Pro Models to Feature Improved LiDAR Scanner",
+                        "description": "Sony will replace Lumentum and WIN Semi as the exclusive supplier of LiDAR Scanner components for the iPhone 15 Pro and iPhone 15 Pro Max, according to the latest information shared by reputable Apple analyst Ming-Chi Kuo.\n\n\n\n\n\nIn a series of tweets today, Ku…",
+                        "url": "https://www.macrumors.com/2023/02/24/kuo-iphone-15-pro-improved-lidar-scanner/",
+                        "urlToImage": "https://images.macrumors.com/t/4UdtWI63s3vVRjhMIrZUDw7kVbw=/1600x/article-new/2022/09/iPhone-14-Pro-Rear-Camera.jpg",
+                        "publishedAt": "2023-02-24T16:58:30Z",
+                        "content": "Sony will replace Lumentum and WIN Semi as the exclusive supplier of LiDAR Scanner components for the iPhone 15 Pro and iPhone 15 Pro Max, according to the latest information shared by reputable Appl… [+778 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": null,
+                            "name": "MacRumors",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "Mitchel Broussard",
+                        "title": "Deals: New Beats Fit Pro Colors Get First Discounts on Amazon, Save $30",
+                        "description": "Earlier this week, Beats introduced three new colors for its Beats Fit Pro wireless noise canceling earbuds. Today on Amazon you can already get these at a discounted price, available for $169.83, down from $199.95.\n\n\n\nNote: MacRumors is an affiliate partner …",
+                        "url": "https://www.macrumors.com/2023/02/24/deals-new-beats-fit-pro-colors/",
+                        "urlToImage": "https://images.macrumors.com/t/C3zMD9OWpEzOy3mQVdHA_zujol8=/2250x/article-new/2023/02/beats-fit-pro-new-colors.jpg",
+                        "publishedAt": "2023-02-24T16:17:57Z",
+                        "content": "Earlier this week, Beats introduced three new colors for its Beats Fit Pro wireless noise canceling earbuds. Today on Amazon you can already get these at a discounted price, available for $169.83, do… [+540 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": null,
+                            "name": "AppleInsider",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "news@appleinsider.com (Jess Pingrey)",
+                        "title": "Presidents' Day deals: Apple Pencil $79, Apple Watch SE $199, $80 off iPad Pro & more",
+                        "description": "Top Presidents' Day deals include 63% off an iPhone charger pack, $200 off an LG 65\" 4K Smart TV, 42% off Ecovacs Deebot T10 Plus robot vacuum and mop combo and more.Get an Apple Watch SE for $200The AppleInsider staff searches the web for amazing deals at on…",
+                        "url": "https://appleinsider.com/articles/23/02/20/presidents-day-deals-apple-pencil-79-apple-watch-se-199-80-off-ipad-pro-more",
+                        "urlToImage": "https://photos5.appleinsider.com/gallery/53094-106353-Daily-deals-feb-20-xl.jpg",
+                        "publishedAt": "2023-02-20T15:09:07Z",
+                        "content": "Get an Apple Watch SE for $200\r\nAppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nTop Presidents' Day deals include 63% off an iPhone charger pack, $200 off … [+3400 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": null,
+                            "name": "AppleInsider",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "news@appleinsider.com (William Gallagher)",
+                        "title": "Apple highlights long-term heart health research aided by Apple Watch",
+                        "description": "From San Fransisco, through Amsterdam and Australia, heart health researchers have been benefitting from Apple Watch medical features.Focusing on its Investigator Support Program and the 2015 launch of ResearchKit and 2016's CareKit, Apple is putting a spotli…",
+                        "url": "https://appleinsider.com/articles/23/02/21/apple-highlights-long-term-heart-health-research-aided-by-apple-watch",
+                        "urlToImage": "https://photos5.appleinsider.com/gallery/53122-106414-000-lead-ECG-xl.jpg",
+                        "publishedAt": "2023-02-21T14:23:29Z",
+                        "content": "AppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nFrom San Fransisco, through Amsterdam and Australia, heart health researchers have been benefitting from Ap… [+3157 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": null,
+                            "name": "9to5Mac",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "Filipe Espósito",
+                        "title": "Apple reveals multiple new security exploits that were patched with iOS 16.3 updates",
+                        "description": "With the release of iOS 16.3.1 last week, Apple has released multiple security patches for iPhone and iPad users. Although the company had already detailed these patches on its website, Apple has now updated its security webpage to reveal that there are even …",
+                        "url": "https://9to5mac.com/2023/02/20/apple-security-exploits-patched-ios-16-3/",
+                        "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/11/ios-16-security.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+                        "publishedAt": "2023-02-20T21:45:11Z",
+                        "content": "With the release of iOS 16.3.1 last week, Apple has released multiple security patches for iPhone and iPad users. Although the company had already detailed these patches on its website, Apple has now… [+2101 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": null,
+                            "name": "AppleInsider",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "news@appleinsider.com (Wesley Hilliard)",
+                        "title": "How to watch Major League Soccer opening weekend for free",
+                        "description": "Apple TV+ is offering the first weekend of Major League Soccer games for free — here's how and where to watch.Watch MLS on Apple TV+Despite being around since 2019, Apple still hasn't made it easy for everyone to understand exactly where Apple TV+ is or how t…",
+                        "url": "https://appleinsider.com/inside/iphone/tips/how-to-watch-major-league-soccer-opening-weekend-for-free",
+                        "urlToImage": "https://photos5.appleinsider.com/gallery/53171-106542-MLS-xl.jpg",
+                        "publishedAt": "2023-02-24T13:10:06Z",
+                        "content": "Watch MLS on Apple TV+\r\nAppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nApple TV+ is offering the first weekend of Major League Soccer games for free — her… [+2789 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": null,
+                            "name": "Hipertextual",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "Luis Miranda",
+                        "title": "MediaTek le planta cara al iPhone 14 y anuncia un chip que ofrece conexión satelital en Android",
+                        "description": "MediaTek es la última compañía en subirse al tren de la conexión satelital en los smartphones. El fabricante taiwanés anunció que presentará su tecnología 3GPP NTN en MWC 2023, la cual permitirá comunicaciones satelitales bidireccionales en móviles Android. L…",
+                        "url": "http://hipertextual.com/2023/02/mediatek-conexion-satelital-android-iphone-14",
+                        "urlToImage": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2019/02/hipertextual-2019440687.jpg?fit=2500%2C1656&quality=55&strip=all&ssl=1",
+                        "publishedAt": "2023-02-24T19:30:00Z",
+                        "content": "MediaTek es la última compañía en subirse al tren de la conexión satelital en los smartphones. El fabricante taiwanés anunció que presentará su tecnología 3GPP NTN en MWC 2023, la cual permitirá comu… [+3643 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": null,
+                            "name": "AppleInsider",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "news@appleinsider.com (Michael Stroup)",
+                        "title": "How to take a screenshot on Apple Watch",
+                        "description": "Taking a quick screenshot on an iPhone or iPad is well-documented, but there are times when you need to do it on Apple Watch as well. Here's how to get it done.It's possible to take a screenshot on an Apple Watch. Before taking a screenshot on your Apple Watc…",
+                        "url": "https://appleinsider.com/inside/apple-watch/tips/how-to-take-a-screenshot-on-apple-watch",
+                        "urlToImage": "https://photos5.appleinsider.com/gallery/53092-106348-1-xl.jpg",
+                        "publishedAt": "2023-02-24T16:09:49Z",
+                        "content": "It's possible to take a screenshot on an Apple Watch. \r\nAppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nTaking a quick screenshot on an iPhone or iPad is w… [+1526 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": null,
+                            "name": "AppleInsider",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "news@appleinsider.com (Andrew Orr)",
+                        "title": "An Apple Watch on a wrist is a good indicator of which iPhone they have",
+                        "description": "New data shows that Apple Watch owners have entirely different iPhone purchasing habits than those that don't. Here's how they're different.Apple Watch UltraAlthough the Apple Watch can perform some tasks independently, it still more or less requires an iPhon…",
+                        "url": "https://appleinsider.com/articles/23/02/22/an-apple-watch-on-a-wrist-is-a-good-indicator-of-which-iphone-they-have",
+                        "urlToImage": "https://photos5.appleinsider.com/gallery/53145-106456-Apple-Watch-Ultra-xl.jpg",
+                        "publishedAt": "2023-02-22T15:40:52Z",
+                        "content": "Apple Watch Ultra\r\nAppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nNew data shows that Apple Watch owners have entirely different iPhone purchasing habits … [+1733 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": null,
+                            "name": "AppleInsider",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "news@appleinsider.com (William Gallagher)",
+                        "title": "President Biden upholds potential Apple Watch ban",
+                        "description": "President Biden has decided not to block a possible Apple Watch import ban which can go ahead if AliveCor can overturn a previous ruling that its patents in question are invalid.AliveCor has told AppleInsider that it has been informed that the International T…",
+                        "url": "https://appleinsider.com/articles/23/02/21/president-biden-upholds-potential-apple-watch-ban",
+                        "urlToImage": "https://photos5.appleinsider.com/gallery/53127-106424-000-lead-ECG-2-xl.jpg",
+                        "publishedAt": "2023-02-21T17:08:48Z",
+                        "content": "AppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nPresident Biden has decided not to block a possible Apple Watch import ban which can go ahead if AliveCor c… [+1690 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": "cnn",
+                            "name": "CNN",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "Peter Valdes-Dapena",
+                        "title": "The 2024 Mercedes E-class will have TikTok built in",
+                        "description": "For those who have ever felt the urge to whip off a Tik Tok video from inside their car, Mercedes-Benz owners will be able to do that from inside the 2024 E-class without even having get out their phones.",
+                        "url": "https://www.cnn.com/2023/02/22/business/mercedes-e-class-zoom-tiktok/index.html",
+                        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230222110751-mercedes-benz-e-class-built-in-tiktok-display.jpg?c=16x9&q=w_800,c_fill",
+                        "publishedAt": "2023-02-22T18:58:08Z",
+                        "content": "For those who have ever felt the urge to whip off a Tik Tok video from inside their car, Mercedes-Benz owners will be able to do that from inside the 2024 E-class without even having get out their ph… [+2758 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": null,
+                            "name": "The Guardian",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "Dan Milmo Global technology editor",
+                        "title": "Does paid-for Facebook and Instagram signal end of free-access orthodoxy?",
+                        "description": "The creators and influencers on Meta’s platforms are an obvious market for verified users’ monthly feesMark Zuckerberg’s social media empire is built on billions of users – and the advertisers who pay vast sums to grab their attention.But that business model …",
+                        "url": "https://www.theguardian.com/technology/2023/feb/20/facebook-instagram-paid-for-signal-free-access-meta",
+                        "urlToImage": "https://i.guim.co.uk/img/media/dc1bc40a5105e7bf8c053fd98aa6136a41663650/0_74_3500_2100/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=faf2e6a46129f9626f08e7764ca3c168",
+                        "publishedAt": "2023-02-20T17:08:13Z",
+                        "content": "Mark Zuckerbergs social media empire is built on billions of users and the advertisers who pay vast sums to grab their attention.\r\nBut that business model is under pressure on several fronts. It is a… [+4300 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": null,
+                            "name": "heise online",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "Malte Kirchner",
+                        "title": "Apple sichert sich angeblich alle 3-Nanometer-Chips von TSMC",
+                        "description": "Apple sichert sich laut Medienberichten Chips mit 3 Nanometer Strukturbreite. Doch zusammen mit der Großbestellung gebe es auch Stornierungen.",
+                        "url": "https://www.heise.de/news/Apple-sichert-sich-angeblich-alle-3-Nanometer-Chips-von-TSMC-7524152.html",
+                        "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/7/0/6/3/7/3/TSMC-99885acb979eb055.jpg",
+                        "publishedAt": "2023-02-22T15:40:00Z",
+                        "content": "Apple sorgt laut einem Medienbericht bereits vor, um im Herbst genügend 3-Nanometer-Chips für das iPhone 15 Pro zu haben. Der Chipfertiger TSMC aus Taiwan könne sich aber nur teilweise darüber freuen… [+1719 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": null,
+                            "name": "MacRumors",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "Eric Slivka",
+                        "title": "Beats Fit Pro Launching in New Tidal Blue, Volt Yellow, and Coral Pink Colors",
+                        "description": "Following leaks earlier this month, Apple's Beats by Dre brand is today announcing three new colors of its popular Beats Fit Pro earphones: Tidal Blue, Volt Yellow, and Coral Pink. Originally launched in late 2021, Beats Fit Pro are an alternative to Apple's …",
+                        "url": "https://www.macrumors.com/2023/02/21/beats-fit-pro-new-blue-yellow-pink-colors/",
+                        "urlToImage": "https://images.macrumors.com/t/nQlE7dtyW7EPg6qNhq9Us8lRq4M=/1600x/article-new/2023/02/beats-fit-pro-feb23-colors.jpg",
+                        "publishedAt": "2023-02-21T15:00:00Z",
+                        "content": "Following leaks earlier this month, Apple's Beats by Dre brand is today announcing three new colors of its popular Beats Fit Pro earphones: Tidal Blue, Volt Yellow, and Coral Pink. Originally launche… [+2555 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": null,
+                            "name": "9to5Mac",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "Michael Potuck",
+                        "title": "Does wearing an Apple Watch affect iPhone buying habits? Here’s what the data says",
+                        "description": "Image via Nomad\nCIRP is out with an interesting new study this morning looking at the correlation between Apple Watch owners and which iPhone they have as well as what iPhone people pick who don’t own Apple’s wearable.\n more…\nThe post Does wearing an Apple Wa…",
+                        "url": "https://9to5mac.com/2023/02/22/apple-watch-owners-have-these-iphones/",
+                        "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/02/nomad-english-tan-apple-watch-band-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+                        "publishedAt": "2023-02-22T14:26:35Z",
+                        "content": "Image via Nomad\r\nCIRP is out with an interesting new study this morning looking at the correlation between Apple Watch owners and which iPhone they have as well as what iPhone people pick who don’t o… [+1373 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": null,
+                            "name": "9to5Mac",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "Chance Miller",
+                        "title": "Apple Support website down for some users with persistent ‘Invalid URL’ error",
+                        "description": "The Apple Support website is experiencing an outage for some users today. It’s unclear how widespread the problems are, but affected users are seeing an “Invalid URL” error when trying to access any “support.apple.com” link. \n more…\nThe post Apple Support web…",
+                        "url": "https://9to5mac.com/2023/02/20/apple-support-website-invalid-url/",
+                        "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/02/apple-support-url.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+                        "publishedAt": "2023-02-20T17:32:54Z",
+                        "content": "The Apple Support website is experiencing an outage for some users today. It’s unclear how widespread the problems are, but affected users are seeing an “Invalid URL” error when trying to access any … [+1282 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": null,
+                            "name": "heise online",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "Leo Becker",
+                        "title": "iOS 16.4 Beta: Apple erlaubt weitreichende iPhone-Anpassungen per Shortcut",
+                        "description": "iPhones lassen sich bald umfassender automatisieren. Die neuen Kurzbefehle reichen von VPN über Always-On-Display bis zum Stummschalten unbekannter Anrufer.",
+                        "url": "https://www.heise.de/news/iOS-16-4-Beta-Apple-erlaubt-weitreichende-iPhone-Anpassungen-per-Shortcut-7524170.html",
+                        "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/7/0/6/3/8/2/tre210928_231_iPhone-13-pro-front-bc291e40fff57ab0.jpg",
+                        "publishedAt": "2023-02-22T15:36:00Z",
+                        "content": "Apple baut die vorinstallierte Kurzbefehle-App deutlich aus: iOS und iPadOS 16.4 bringen eine Reihe an neuen Aktionen mit, die Nutzer teils schon lange gefordert haben und die eine umfassendere Autom… [+2049 chars]"
+                    },
+                    {
+                        "source": {
+                            "id": null,
+                            "name": "9to5Mac",
+                            "description": null,
+                            "url": null,
+                            "category": null,
+                            "language": null,
+                            "country": null
+                        },
+                        "author": "Michael Potuck",
+                        "title": "Apple highlights free live sessions for app developers and podcasters to learn from experts",
+                        "description": "Starting this month and throughout the weeks ahead, Apple is hosting free sessions with experts to help creators who are working on apps and podcasts. Registration is open now for support with discovery and marketing, optimizing subscriptions, and more.\n more…",
+                        "url": "https://9to5mac.com/2023/02/21/apple-free-sessions-app-devs-and-podcasters/",
+                        "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/09/App-Store-prices.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+                        "publishedAt": "2023-02-21T18:29:57Z",
+                        "content": "Starting this month and throughout the weeks ahead, Apple is hosting free sessions with experts to help creators who are working on apps and podcasts. Registration is open now for support with discov… [+1469 chars]"
+                    }
+                ],
+                "articleCount": 70
+            }
+        }
+    ],
+    "links": {
+        "self": "/v1/news-feed"
+    },
+    "meta": {
+        "page": {
+            "size": 10,
+            "totalElements": 2,
+            "totalPages": 1,
+            "number": 1
+        }
+    }
+}

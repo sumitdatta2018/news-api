@@ -1,0 +1,7 @@
+newsApi:
+  baseurl: ${NEWS_API_BASE_URL:https://newsapi.org}
+  authToken: ${NEWS_API_AUTH_TOKEN:ccaf5d41cc5140c984818c344edcc14d}
+
+springdoc:
+  swagger-ui:
+    path: swagger-ui.html
