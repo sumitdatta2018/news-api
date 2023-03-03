@@ -34,7 +34,7 @@ configurations {
 }
 
 task runFunctionalTestsCI() {
-    dependsOn ':build', testClasses, ':composeUp'
+    dependsOn ':build'
     group 'test'
     doLast {
         javaexec {
@@ -43,7 +43,6 @@ task runFunctionalTestsCI() {
             environment 'CUCUMBER_FILTER_TAGS', 'not @integration-test'
         }
     }
-    finalizedBy(":composeDown")
 }
 
 
@@ -54,7 +53,6 @@ task runFunctionalTestsEnv() {
         javaexec {
             mainClass = "io.cucumber.core.cli.Main"
             classpath = configurations.cucumberRuntime + sourceSets.main.output + sourceSets.test.output
-            environment 'CUCUMBER_FILTER_TAGS', '@integration-test'
         }
     }
 }

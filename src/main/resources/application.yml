@@ -5,3 +5,9 @@ newsApi:
 springdoc:
   swagger-ui:
     path: swagger-ui.html
+
+server:
+  servlet:
+    encoding:
+      charset: UTF-8
+      force-response: true

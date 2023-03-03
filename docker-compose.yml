@@ -11,8 +11,17 @@ services:
     environment:
       NEWS_API_BASE_URL: "http://mock-news-api:8080"
       NEWS_API_AUTH_TOKEN: test
+    networks:
+      - news-api
 
   mock-news-api:
     image: wiremock/wiremock:main-alpine
     ports:
       - '9050:8080'
+    networks:
+      - news-api
+
+networks:
+  news-api:
+    driver: bridge
+    name: news-api

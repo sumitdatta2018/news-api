@@ -6,6 +6,7 @@ import java.net.URL;
 
 import com.mydomain.newsapi.tests.utils.FileUtils;
 import com.mydomain.newsapi.tests.utils.UrlUtils;
+import io.restassured.http.Header;
 import org.json.JSONException;
 import org.skyscreamer.jsonassert.JSONAssert;
 
@@ -23,10 +24,7 @@ import io.restassured.specification.RequestSpecification;
 public class NewsApiSteps {
 	
 	public static Response response;
-
     String newsApiBase = System.getenv().getOrDefault("NEWS_API_BASE", "http://localhost:8080");
-
-
 
 	@When("a GET request is sent to the News Api {string} endpoint")
     public void doGetRequestEndPoint(String endPoint) throws MalformedURLException {
