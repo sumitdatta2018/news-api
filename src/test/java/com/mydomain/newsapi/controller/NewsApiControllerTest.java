@@ -18,11 +18,12 @@ import org.springframework.test.context.ActiveProfiles;
 import org.springframework.test.web.reactive.server.WebTestClient;
 import org.springframework.test.web.reactive.server.WebTestClient.ResponseSpec;
 import reactor.core.publisher.Mono;
-import static org.assertj.core.api.Assertions.assertThat;
 
 import java.util.Collections;
 import java.util.List;
+import java.util.Objects;
 
+import static org.assertj.core.api.Assertions.assertThat;
 import static org.mockito.Mockito.when;
 import static org.springframework.hateoas.server.mvc.WebMvcLinkBuilder.linkTo;
 import static org.springframework.hateoas.server.mvc.WebMvcLinkBuilder.methodOn;
@@ -36,9 +37,6 @@ import static org.springframework.http.MediaType.APPLICATION_JSON_VALUE;
 public class NewsApiControllerTest {
 
   private static final String PATH = "/v1/news-feed";
-  private static final String QUERY_INITIATOR = "?";
-  private static final String QUERY_APPENDER = "&";
-  private static final String SEARCH_KEYWORD = "searchKeyword=";
 
   @Autowired
   private WebTestClient webTestClient;
@@ -46,13 +44,14 @@ public class NewsApiControllerTest {
   @MockBean
   private NewsApiService newsApiService;
 
-  protected ResponseSpec doGet(final WebTestClient client, final String uri) {
-    return client.get().uri(uri).header(ACCEPT, "application/vnd.api+json").exchange().expectStatus().isOk();
+  protected ResponseSpec doGet(final WebTestClient client) {
+    return client.get().uri("/v1/news-feed?searchKeyword=apple").header(ACCEPT, "application/vnd.api+json").exchange()
+        .expectStatus().isOk();
   }
 
-  protected WebTestClient.BodyContentSpec doGetAndGet400Error(final WebTestClient client, final String uri) {
-    return client.get().uri(uri).header(CONTENT_TYPE, APPLICATION_JSON_VALUE).exchange().expectStatus().isBadRequest()
-        .expectBody();
+  protected WebTestClient.BodyContentSpec doGetAndGet400Error(final WebTestClient client) {
+    return client.get().uri(NewsApiControllerTest.PATH).header(CONTENT_TYPE, APPLICATION_JSON_VALUE).exchange()
+        .expectStatus().isBadRequest().expectBody();
   }
 
   protected WebTestClient.BodyContentSpec doGet500Error(final WebTestClient client, final String uri) {
@@ -78,25 +77,24 @@ public class NewsApiControllerTest {
     when(newsApiService.getNewsFeed(searchCriteria))
         .thenReturn(Mono.just(PagedModel.of(newsFeedBuckets, pageMetadata, selfLink)));
 
-    doGet(webTestClient, PATH + QUERY_INITIATOR + SEARCH_KEYWORD + "apple")
-        .expectBody(new TypeReferences.PagedModelType<NewsFeedBucket>() {}).consumeWith(result -> {
-          PagedModel<NewsFeedBucket> response = result.getResponseBody();
-          assertThat(response.getRequiredLink(IanaLinkRelations.SELF)).isEqualTo(Link.of("/v1/news-feed"));
-          assertThat(response.getContent().stream().findFirst().get().getArticles().get(0).getAuthor())
-              .isEqualTo("test-author");
-          assertThat(response.getContent().stream().findFirst().get().getArticles().get(0).getContent())
-              .isEqualTo("apple");
-          assertThat(response.getContent().stream().findFirst().get().getArticles().get(0).getDescription())
-              .isEqualTo("test-description");
-          assertThat(response.getContent().stream().findFirst().get().getArticles().get(0).getTitle())
-              .isEqualTo("test-title");
-        });
+    doGet(webTestClient).expectBody(new TypeReferences.PagedModelType<NewsFeedBucket>() {}).consumeWith(result -> {
+      PagedModel<NewsFeedBucket> response = result.getResponseBody();
+      assertThat(Objects.requireNonNull(response).getRequiredLink(IanaLinkRelations.SELF))
+          .isEqualTo(Link.of("/v1/news-feed"));
+      assertThat(response.getContent().stream().findFirst().get().getArticles().get(0).getAuthor())
+          .isEqualTo("test-author");
+      assertThat(response.getContent().stream().findFirst().get().getArticles().get(0).getContent()).isEqualTo("apple");
+      assertThat(response.getContent().stream().findFirst().get().getArticles().get(0).getDescription())
+          .isEqualTo("test-description");
+      assertThat(response.getContent().stream().findFirst().get().getArticles().get(0).getTitle())
+          .isEqualTo("test-title");
+    });
   }
 
   @DisplayName("Get error when searchKeyword attribute is missing in query param")
   @Test
   void getNewsApiResponseForMissingParam() {
-    doGetAndGet400Error(webTestClient, PATH).jsonPath("$").isNotEmpty().jsonPath("$.reason")
+    doGetAndGet400Error(webTestClient).jsonPath("$").isNotEmpty().jsonPath("$.reason")
         .isEqualTo("NEWS_API_INVALID_INPUT").jsonPath("$.code").isEqualTo(400);
   }
 }

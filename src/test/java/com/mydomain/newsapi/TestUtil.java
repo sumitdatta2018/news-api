@@ -35,8 +35,6 @@ public final class TestUtil {
     return OBJECT_MAPPER.readValue(json, new TypeReference<RepresentationModel<T>>() {});
   }
 
-
-
   @SneakyThrows
   public static <T> T readTypeResponse(final String path, final Class<T> clazz) {
     var json = readResource(RESPONSE_PATH + path);

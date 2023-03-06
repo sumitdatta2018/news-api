@@ -1,25 +1,22 @@
 package com.mydomain.newsapi.tests.functional.steps;
 
+import com.mydomain.newsapi.tests.utils.FileUtils;
+import com.mydomain.newsapi.tests.utils.UrlUtils;
+import io.cucumber.java.en.Then;
+import io.cucumber.java.en.When;
+import io.restassured.RestAssured;
+import io.restassured.response.Response;
+import io.restassured.specification.RequestSpecification;
+import org.json.JSONException;
+import org.skyscreamer.jsonassert.JSONAssert;
+
 import java.io.IOException;
 import java.net.MalformedURLException;
 import java.net.URL;
 
-import com.mydomain.newsapi.tests.utils.FileUtils;
-import com.mydomain.newsapi.tests.utils.UrlUtils;
-import io.restassured.http.Header;
-import org.json.JSONException;
-import org.skyscreamer.jsonassert.JSONAssert;
-
-
-
-import io.cucumber.java.en.Then;
-import io.cucumber.java.en.When;
 import static io.restassured.RestAssured.given;
-import static org.assertj.core.api.Assertions.assertThat;
 import static io.restassured.config.RedirectConfig.redirectConfig;
-import io.restassured.RestAssured;
-import io.restassured.response.Response;
-import io.restassured.specification.RequestSpecification;
+import static org.assertj.core.api.Assertions.assertThat;
 
 public class NewsApiSteps {
 	
@@ -42,7 +39,10 @@ public class NewsApiSteps {
         throws IOException, JSONException {
       String baseResponse = FileUtils.readDataFile(responseFile);
       String responseBody = response.body().asPrettyString();
-      JSONAssert.assertEquals(baseResponse, responseBody, false);
+      System.out.println(baseResponse);
+      System.out.println("------------------------------------------------");
+      System.out.println(responseBody);
+      JSONAssert.assertEquals(baseResponse, new String(responseBody.getBytes("UTF-8"), "UTF-8"), false);
     }
 
 

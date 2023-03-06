@@ -21,7 +21,7 @@ public class NewsApiService {
 
   public Mono<PagedModel<NewsFeedBucket>> getNewsFeed(SearchCriteria searchCriteria) {
     DateTimeFormatter isoLocalDateTime = DateTimeFormatter.ISO_LOCAL_DATE_TIME;
-    var newsFeed = newsApiWebClient.getNewsFeed(
+    var newsFeed = newsApiWebClient.getNewsFeedWithIntervalFilter(
         searchCriteria.getSearchKeyword(), isoLocalDateTime.format(LocalDateTime.now(ZoneOffset.UTC)
             .minus(searchCriteria.getGroupingDuration(), searchCriteria.getGroupingInterval())),
         isoLocalDateTime.format(LocalDateTime.now()));

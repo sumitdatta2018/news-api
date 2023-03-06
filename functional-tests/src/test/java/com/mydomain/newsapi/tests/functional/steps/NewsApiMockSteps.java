@@ -1,19 +1,12 @@
 package com.mydomain.newsapi.tests.functional.steps;
 
-import java.io.IOException;
 import com.github.tomakehurst.wiremock.client.WireMock;
-
-
-import static com.github.tomakehurst.wiremock.client.WireMock.urlPathMatching;
-
-import static com.github.tomakehurst.wiremock.client.WireMock.jsonResponse;
-import static com.github.tomakehurst.wiremock.client.WireMock.get;
-import static com.github.tomakehurst.wiremock.client.WireMock.okJson;
-import static com.github.tomakehurst.wiremock.client.WireMock.stubFor;
-import static com.mydomain.newsapi.tests.utils.FileUtils.readDataFile;
-
 import io.cucumber.java.en.Given;
-import io.cucumber.java.en.Then;
+
+import java.io.IOException;
+
+import static com.github.tomakehurst.wiremock.client.WireMock.*;
+import static com.mydomain.newsapi.tests.utils.FileUtils.readDataFile;
 
 public class NewsApiMockSteps {
 
@@ -40,7 +33,6 @@ public class NewsApiMockSteps {
 		String responseData = readDataFile(dataFileName);
 		registerStubForGetError(endpoint, responseData);
 	}
-	
 
 	private void registerStubForGet(String endpoint, String responseData) {
 		wireMockServer.register(stubFor(get(urlPathMatching(endpoint)).willReturn(okJson(responseData))));

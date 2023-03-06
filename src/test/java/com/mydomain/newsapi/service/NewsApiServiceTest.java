@@ -12,7 +12,6 @@ import org.junit.jupiter.api.extension.RegisterExtension;
 import org.mockito.junit.jupiter.MockitoExtension;
 import reactor.test.StepVerifier;
 
-
 import static org.assertj.core.api.Assertions.assertThat;
 
 @ExtendWith({MockitoExtension.class})
@@ -38,7 +37,7 @@ public class NewsApiServiceTest {
 
     NEWS_API_MOCK
         .stubNewsApiToGetNewsFeedByKeyword(NEWS_API_TO_GET_NEWS_FEED_BY_KEYWORD + "everything-news-api-response.json");
-    SearchCriteria searchCriteria = SearchCriteria.builder().build();
+    SearchCriteria searchCriteria = SearchCriteria.builder().searchKeyword("apple").build();
     StepVerifier.create(newsApiService.getNewsFeed(searchCriteria)).assertNext(
         model -> assertThat(model.getContent().stream().findFirst().get().getArticles().stream().findFirst().get())
             .hasFieldOrPropertyWithValue("author", "Scott Gilbertson")

@@ -4,6 +4,7 @@ import java.util.List;
 
 import lombok.Builder;
 import lombok.Data;
+import lombok.EqualsAndHashCode;
 import lombok.extern.jackson.Jacksonized;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
@@ -14,6 +15,7 @@ import org.springframework.hateoas.RepresentationModel;
 @Data
 @Builder
 @Jacksonized
+@EqualsAndHashCode(callSuper = false)
 @JsonInclude(Include.NON_NULL)
 public class NewsFeed extends RepresentationModel {
 
