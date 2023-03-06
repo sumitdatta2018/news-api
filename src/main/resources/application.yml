@@ -11,3 +11,13 @@ server:
     encoding:
       charset: UTF-8
       force-response: true
+
+spring:
+  redis:
+    host: ${REDIS_HOST:localhost}
+    port: ${REDIS_PORT:6379}
+
+management:
+  endpoint:
+    health:
+      show-details: always
