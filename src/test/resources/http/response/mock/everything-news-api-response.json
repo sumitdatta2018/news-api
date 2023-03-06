@@ -1,0 +1,19 @@
+{
+  "status": "ok",
+  "totalResults": 1,
+  "articles": [
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Scott Gilbertson",
+      "title": "14 Best Deals: Apple iPads, Laptops, and Outdoor Gear",
+      "description": "Whether you’re looking for new tech to get through long cool nights, or planning a spring camping trip, there are plenty of discounts that can help.",
+      "url": "https://www.wired.com/story/midweek-deals-022223/",
+      "urlToImage": "https://media.wired.com/photos/627af5ce194f8820f344ac62/191:100/w_1280,c_limit/Pixel-6a-SOURCE-Google-Gear.jpg",
+      "publishedAt": "2023-02-23T12:00:00Z",
+      "content": "Depending on where you live, it's either starting to look a little like spring or still totally socked in winter. Damn that groundhog. Either way, we have some deals for you. Those of you stuck in th… [+5960 chars]"
+    }
+  ]
+}

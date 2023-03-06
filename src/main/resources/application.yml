@@ -1,0 +1,23 @@
+newsApi:
+  baseurl: ${NEWS_API_BASE_URL:https://newsapi.org}
+  authToken: ${NEWS_API_AUTH_TOKEN:ccaf5d41cc5140c984818c344edcc14d}
+
+springdoc:
+  swagger-ui:
+    path: swagger-ui.html
+
+server:
+  servlet:
+    encoding:
+      charset: UTF-8
+      force-response: true
+
+spring:
+  redis:
+    host: ${REDIS_HOST:localhost}
+    port: ${REDIS_PORT:6379}
+
+management:
+  endpoint:
+    health:
+      show-details: always

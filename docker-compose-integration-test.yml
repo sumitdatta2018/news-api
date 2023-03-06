@@ -1,0 +1,38 @@
+version: '3'
+
+services:
+  mock-news-api:
+    image: wiremock/wiremock:main-alpine
+    ports:
+      - '9050:8080'
+    networks:
+      - news-api
+  redis:
+    image: redis
+    ports:
+      - '6379:6379'
+    volumes:
+      - redis_data:/data
+    networks:
+      - news-api
+  news-api:
+    image: news-api
+    build:
+      dockerfile: Dockerfile
+      context: .
+    ports:
+      - '8080:8080'
+    environment:
+      NEWS_API_BASE_URL: "http://mock-news-api:8080"
+      NEWS_API_AUTH_TOKEN: test
+      REDIS_HOST: redis
+      REDIS_PORT: 6379
+    networks:
+      - news-api
+
+networks:
+  news-api:
+    driver: bridge
+    name: news-api
+volumes:
+  redis_data:

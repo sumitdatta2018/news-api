@@ -1,0 +1,58 @@
+plugins {
+    id 'java'
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testImplementation 'io.rest-assured:rest-assured:4.5.0'
+    testImplementation 'org.assertj:assertj-core:3.22.0'
+    testImplementation 'org.hamcrest:hamcrest:2.2'
+    testImplementation 'io.cucumber:cucumber-java:7.2.3'
+    testImplementation "com.github.tomakehurst:wiremock-jre8:2.32.0"
+    testImplementation "org.skyscreamer:jsonassert:1.5.0"
+    testCompileOnly 'org.projectlombok:lombok:1.18.24'
+    testAnnotationProcessor 'org.projectlombok:lombok:1.18.24'
+}
+
+group = 'com.kingfisher'
+version = '0.0.1-SNAPSHOT'
+description = 'RestAssured'
+java.sourceCompatibility = JavaVersion.VERSION_17
+java.targetCompatibility = JavaVersion.VERSION_17
+
+tasks.withType(JavaCompile) {
+    options.encoding = 'UTF-8'
+}
+
+configurations {
+    cucumberRuntime {
+        extendsFrom testImplementation
+    }
+}
+
+task runFunctionalTestsCI() {
+    dependsOn ':build'
+    group 'test'
+    doLast {
+        javaexec {
+            mainClass = "io.cucumber.core.cli.Main"
+            classpath = configurations.cucumberRuntime + sourceSets.main.output + sourceSets.test.output
+            environment 'CUCUMBER_FILTER_TAGS', 'not @integration-test'
+        }
+    }
+}
+
+
+task runFunctionalTestsEnv() {
+    dependsOn assemble, testClasses
+    group 'test'
+    doLast {
+        javaexec {
+            mainClass = "io.cucumber.core.cli.Main"
+            classpath = configurations.cucumberRuntime + sourceSets.main.output + sourceSets.test.output
+        }
+    }
+}

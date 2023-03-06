@@ -1,0 +1,83 @@
+stages:
+  - Test
+  - Build
+  - Build & Push Docker Image
+
+test-gradle-check:
+  stage: Test
+  image: gradle:jdk17-jammy
+  variables:
+    GRADLE_OPTS: "-Dorg.gradle.daemon=false"
+  script:
+    - export GRADLE_USER_HOME=`pwd`/.gradle
+    - ./gradlew clean check --stacktrace --no-watch-fs
+  cache:
+    key: "$CI_COMMIT_REF_NAME"
+    policy: pull
+    paths:
+      - build
+      - .gradle
+
+test-integration:
+  stage: Test
+  image: openjdk:17-oracle
+  variables:
+    DOCKER_HOST: tcp://docker:2375
+    DOCKER_TLS_CERTDIR: ""
+    API_NAME: "$API_NAME"
+  services:
+    - docker:23.0.1-dind
+  script:
+    - curl -SL https://github.com/docker/compose/releases/download/v2.16.0/docker-compose-linux-x86_64 -o /usr/local/bin/docker-compose
+    - chmod 755 /usr/local/bin/docker-compose
+    - docker info
+    - mkdir ~/.docker
+    - |
+      i=0; until docker info -f '{{ .ServerVersion }}' 2>/dev/null || test $i -gt 100; do
+        echo "[$i] Docker Daemon is not ready";
+        sleep 1;
+        i=$(( i + 1))
+      done;
+      test $i -lt 100
+    - export COMPOSE_HTTP_TIMEOUT=200
+    - docker-compose up -d
+    - ./gradlew --gradle-user-home /opt/.gradle --stacktrace clean build
+    - docker-compose up -d
+    - sleep 30s
+    - ./gradlew clean functional-tests:runFunctionalTestsEnv
+  cache:
+    key: "$CI_COMMIT_REF_NAME"
+    policy: pull
+    paths:
+      - build
+      - .gradle
+
+build-code:
+  stage: Build
+  image: openjdk:17-jdk-alpine
+  script:
+    - echo "Building News API"
+    - ./gradlew clean build
+  artifacts:
+    when: always
+    paths:
+      - api/build/libs/*.jar
+      - api/build/reports/jacoco/test/html/index.html
+      - api/build/reports/jacoco/test/jacocoTestReport.xml
+      - api/build/reports/tests/test/index.html
+    reports:
+      junit: api/build/reports/tests/test/index.html
+
+build-image:
+  stage: Build & Push Docker Image
+  variables:
+    DOCKER_HOST: tcp://docker:2375
+    DOCKER_TLS_CERTDIR: ""
+    IMAGE_TAG: {your docker registry}/newsapi:$CI_COMMIT_SHORT_SHA
+  services:
+    - docker:23.0.1-dind
+  script:
+    - echo "Welcome to News API"
+    - docker build -t $IMAGE_TAG .
+    - docker images
+    - docker push $IMAGE_TAG
